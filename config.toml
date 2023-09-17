@@ -22,18 +22,18 @@ enableGitInfo = false
 [[menu.after]]
   identifier = "main"
   name = "Protocol"
-  url = "docs/main.md"
+  url = "docs/main"
   weight = 1
 
 [[menu.after]]
   name = "Dentistry"
-  url = "docs/main.md#dentistry"
+  url = "docs/main#dentistry"
   parent = "main"
   weight = 2
 
 [[menu.after]]
   name = "Dermatology"
-  url = "docs/main.md#dermatology"
+  url = "docs/main#dermatology"
   parent = "main"
   weight = 3
 
