@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://main--stirring-maamoul-7c87a9.netlify.app/'
+baseURL = 'https://main--stirring-maamoul-7c87a9.netlify.app/docs/main'
 title = '5-HT Project'
 theme = 'hugo-book'
 
