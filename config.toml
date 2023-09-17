@@ -20,24 +20,6 @@ enableGitInfo = false
 # [[menu.before]]
 
 [[menu.after]]
-  identifier = "main"
-  name = "Protocol"
-  url = "docs/main"
-  weight = 1
-
-[[menu.after]]
-  name = "Dentistry"
-  url = "docs/main#dentistry"
-  parent = "main"
-  weight = 2
-
-[[menu.after]]
-  name = "Dermatology"
-  url = "docs/main#dermatology"
-  parent = "main"
-  weight = 3
-
-[[menu.after]]
   name = "GitHub"
   url = "https://github.com/shadow7692"
   weight = 10
