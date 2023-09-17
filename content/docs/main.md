@@ -65,4 +65,8 @@ Areas of ongoing research: diaphragmatic breathing.
 
 The most beautiful sound a person can hear is their own name.
 
-**Ongoing research:** body language.
+Avoid tortured meat because the negative emotion and negative energy will transfer. The Vedas say it is better to be a vegetarian.
+
+Help people where you can.
+
+**Ongoing research:** body language, manifestation.
