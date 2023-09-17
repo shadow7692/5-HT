@@ -1,0 +1,34 @@
+<!--
+  This is template for hugo menus, accepts MenuEntity as context
+  https://gohugo.io/variables/menus/
+-->
+{{ if . }}
+  {{ template "book-menu-hugo" . }}
+{{ end }}
+
+{{ define "book-menu-hugo" }}
+<ul>
+  {{ range . }}
+  <li>
+    <a href="{{ .URL }}" {{ with .Params.class }}class="{{ . }}"{{ end }} {{ if or (strings.HasPrefix .URL "http://") (strings.HasPrefix .URL "https://") }}target="_blank" rel="noopener"{{ end }}>
+      {{- .Pre -}}
+      {{ with .Page }}
+        {{ partial "docs/title" .Page }}
+      {{ else }}
+        {{ .Name }}
+      {{ end }}
+      {{- .Post -}}
+    </a>
+    {{- with .Children }}
+      {{ template "book-menu-hugo" . }}
+    {{- end }}
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
+
+
+
+
+
+

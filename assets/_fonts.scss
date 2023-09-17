@@ -1,0 +1,46 @@
+/* gentium-plus-regular - latin */
+@font-face {
+  font-family: 'GentiumPlus';
+  font-style: normal; /* Specify normal for regular */
+  font-display: swap;
+  src: local(''),
+       url('fonts/GentiumPlus-Regular.ttf') format('truetype');
+}
+
+/* gentium-plus-bold - latin */
+@font-face {
+  font-family: 'GentiumPlus';
+  font-style: normal; /* Specify normal for regular */
+  font-weight: bold;
+  font-display: swap;
+  src: local(''),
+       url('fonts/GentiumPlus-Bold.ttf') format('truetype');
+}
+
+/* gentium-plus-italic - latin */
+@font-face {
+  font-family: 'GentiumPlus';
+  font-style: italic;
+  font-weight: normal; /* Specify normal for regular */
+  font-display: swap;
+  src: local(''),
+       url('fonts/GentiumPlus-Italic.ttf') format('truetype');
+}
+
+/* source-sans-3-variable - latin */
+@font-face {
+  font-family: 'SourceSans3';
+  font-style: normal; /* Specify normal for regular */
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('fonts/SourceSans3-VariableFont_wght.ttf') format('truetype');
+}
+
+body {
+  font-family: 'GentiumPlus', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'SourceSans3', sans-serif;
+}
