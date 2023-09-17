@@ -16,7 +16,7 @@ Let it be known that this work does not possess all the answers. Rather, it humb
 
 Brush teeth twice daily using an electric toothbrush, utilising a tongue scraper and practising regular dental flossing. Gargle warm salt solution each night. Use [miswak](https://www.youtube.com/watch?v=3gyLDGaKUGs), or *Salvadora persica* sticks, following every meal or snack. Maintain correct tongue posture and [mew](https://www.youtube.com/watch?v=Hmf-pR7EryY) correctly as often as remembered.
 
-Areas of ongoing research: fluoride-free toothpaste.
+**Ongoing research:** fluoride-free toothpaste.
 
 ### DERMATOLOGY
 
@@ -28,17 +28,17 @@ Moisturise daily and if incorporating retinol every other day into the skincare 
 
 Wear fresh undergarments and socks on a daily basis. Launder pillowcases and bedsheets regularly.
 
-Areas of ongoing research: face yoga, gua sha, sugar, posture, african wash net.
+**Ongoing research:** face yoga, gua sha, sugar, posture, african wash net.
 
 ### MOBILITY
 
 Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is an efficient routine targeting flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including the eye movements and diaphragmatic breathing.
 
-Areas of ongoing research: Chandra Namaskar.
+**Ongoing research:** Chandra Namaskar.
 
 ### STRENGTH
 
-Areas of ongoing research: weightlifting, long-distance running, boxing.
+**Ongoing research:** weightlifting, long-distance running, boxing.
 
 ### SEXUAL STAMINA
 
@@ -59,10 +59,10 @@ Areas of ongoing research: diaphragmatic breathing.
 
 ### DIET
 
-Areas of ongoing research: organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds.
+**Ongoing research:** organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.
 
 ### PSYCHOSOCIOLOGY
 
 The most beautiful sound a person can hear is their own name.
 
-Areas of ongoing research: body language.
+**Ongoing research:** body language.
