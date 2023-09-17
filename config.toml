@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://main--stirring-maamoul-7c87a9.netlify.app/docs/main'
+baseURL = 'https://main--stirring-maamoul-7c87a9.netlify.app/'
 title = '5-HT Project'
 theme = 'hugo-book'
 
@@ -22,18 +22,18 @@ enableGitInfo = false
 [[menu.after]]
   identifier = "main"
   name = "Protocol"
-  url = ""
+  url = "docs/main.md"
   weight = 1
 
 [[menu.after]]
   name = "Dentistry"
-  url = "#dentistry"
+  url = "docs/main.md#dentistry"
   parent = "main"
   weight = 2
 
 [[menu.after]]
   name = "Dermatology"
-  url = "#dermatology"
+  url = "docs/main.md#dermatology"
   parent = "main"
   weight = 3
 
