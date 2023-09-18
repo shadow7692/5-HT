@@ -4,7 +4,27 @@ date: 2023-09-17T15:48:17+01:00
 BookToC: true
 ---
 
-<p class="h3-noanchor">Preface</p>
+<style>
+h3noanchor {
+  padding: 0px;
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  a.anchor {
+    opacity: 0;
+    font-size: 0.75em;
+    vertical-align: middle;
+    text-decoration: none;
+  }
+  &:hover a.anchor,
+  a.anchor:focus {
+    opacity: 0;
+  }
+}
+</style>
+
+<h3noanchor>Preface</h3noanchor>
 
 In the realm of profound introspection and unwavering self-reflection, where thoughts converge with the deepest recesses of the soul, emerges a work rooted in the timeless pursuit of wisdom. This book seeks to navigate the vast landscapes of the mind, to offer guidance to those who yearn for understanding. Within these pages, the reader will find a heartfelt exploration of the human experience, intended to serve as a companion and a guide on the path towards self-mastery.
 

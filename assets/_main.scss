@@ -24,25 +24,6 @@ body {
 h1,
 h2,
 h3,
-h3-noanchor {
-  padding: 0px;
-  margin-top: 10px;
-  font-size: 14px;
-  font-weight: bold;
-  // color: #666665;
-  text-transform: uppercase;
-  a.anchor {
-    opacity: 0;
-    font-size: 0.75em;
-    vertical-align: middle;
-    text-decoration: none;
-  }
-
-  &:hover a.anchor,
-  a.anchor:focus {
-    opacity: 0;
-  }
-}
 h4,
 h5 {
   font-weight: $body-font-weight;
