@@ -14,11 +14,13 @@ Inspired by Blueprint by Bryan Johnson.
 07:00  Cold shower.
 07:05  Moisturise with SPF, retinol 1% every other day.
 07:10  Four cycles of Surya Namaskar.
+```
 
+```
 21:00  Groom eyebrows, trim body and facial hair, and maintain nails.
 21:20  Kegel exercises.
-
-When remembered: mewing.
-After food: miswak.
 ```
+
+
+Whenever remembered perform mewing, after food use miswak.
 
