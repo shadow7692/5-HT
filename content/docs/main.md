@@ -7,7 +7,8 @@ BookToC: true
 <style>
 h3noanchor {
   padding: 0px;
-  margin-top: 15px;
+  padding-top: 20px;
+  margin-top: 10px;
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
