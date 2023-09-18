@@ -7,20 +7,11 @@ BookToC: true
 <style>
 h3noanchor {
   padding: 0px;
-  margin-top: 10px;
+  margin-top: 15px;
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
-  a.anchor {
-    opacity: 0;
-    font-size: 0.75em;
-    vertical-align: middle;
-    text-decoration: none;
-  }
-  &:hover a.anchor,
-  a.anchor:focus {
-    opacity: 0;
-  }
+  font-family: 'SourceSans3';
 }
 </style>
 
