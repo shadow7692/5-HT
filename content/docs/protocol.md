@@ -8,15 +8,17 @@ bookHidden: false
 
 Inspired by Blueprint by Bryan Johnson.
 
-- Brush teeth, scrape tongue, floss, and salt gargle twice daily.
-- Use miswak after food.
-- Mew.
-- Shower thoroughly once daily, cold shower after exercise.
-- Use scalp scrubber and silicone scrubber.
-- Groom eyebrows, trim body and facial hair, and maintain nails.
-- Moisturiser with SPF daily.
-- Retinol 1% every other day.
-- Launder pillowcases and bedsheets regularly.
-- Four cycles of Surya Namaskar daily.
-- Weightlifting five times weekly.
-- Kegel exercises daily.
+```
+05:30  Brush teeth, scrape tongue, floss, salt gargle, shower using scalp scrubber and silicone scrubber.
+06:00  Weightlifting (MON-FRI).
+07:00  Cold shower.
+07:05  Moisturise with SPF, retinol 1% every other day.
+07:10  Four cycles of Surya Namaskar.
+
+21:00  Groom eyebrows, trim body and facial hair, and maintain nails.
+21:20  Kegel exercises.
+
+When remembered: mewing.
+After food: miswak.
+```
+
