@@ -33,7 +33,7 @@ h3noanchor {
 h2noanchor {
   padding: 0px;
   padding-top: 0px;
-  margin-top: 0px;
+  margin: 0px;
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
@@ -144,7 +144,7 @@ ul.pagination {
 
   a,
   label {
-    color: inherit;
+    //color: inherit;
     cursor: pointer;
     word-wrap: break-word;
   }
