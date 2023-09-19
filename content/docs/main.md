@@ -14,6 +14,7 @@ In the realm of profound introspection and unwavering self-reflection, where tho
 Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.
 
 ### Dentistry
+<h2noanchor>Chapter 1</h2noanchor>
 
 Mechanical plaque control, achieved by creating friction between toothbrush bristles or Miswak plant fibers and the tooth surface, involves cleaning teeth with an electric toothbrush twice daily and using *Salvadora persica* sticks after every meal or snack. Toothpaste containing CoQ10 and Miswak contributes to chemical plaque control through the presence of calcium and fluoride ions, promoting the remineralization of tooth structure and exhibiting mild antibacterial properties.
 
