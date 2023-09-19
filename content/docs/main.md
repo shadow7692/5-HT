@@ -5,7 +5,7 @@ BookToC: true
 weight: 1
 ---
 
-<h2noanchor>Preface</h2noanchor>
+<h2>Preface</n2>
 
 In the realm of profound introspection and unwavering self-reflection, where thoughts converge with the deepest recesses of the soul, emerges a work rooted in the timeless pursuit of wisdom. This book seeks to navigate the vast landscapes of the mind, to offer guidance to those who yearn for understanding. Within these pages, the reader will find a heartfelt exploration of the human experience, intended to serve as a companion and a guide on the path towards self-mastery.
 
@@ -13,7 +13,7 @@ In the realm of profound introspection and unwavering self-reflection, where tho
 
 Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.  
 
-<h2noanchor>Chapter 1</h2noanchor>
+<n2>Chapter 1</n2>
 ### Dentistry
 
 Mechanical plaque control, achieved by creating friction between toothbrush bristles or Miswak plant fibers and the tooth surface, involves cleaning teeth with an electric toothbrush twice daily and using *Salvadora persica* sticks after every meal or snack. Toothpaste containing CoQ10 and Miswak contributes to chemical plaque control through the presence of calcium and fluoride ions, promoting the remineralization of tooth structure and exhibiting mild antibacterial properties.
@@ -28,7 +28,7 @@ Salt gargling, a practice rooted in traditional medicine, involves rinsing the m
 
 **Ongoing research:** Tea tree oil.  
 
-<h2noanchor>Chapter 2</h2noanchor>
+<n2>Chapter 2</n2>
 ### Dermatology
 
 Shower daily, utilising soap to cleanse the entire body beyond mere hand and armpit gestures. Pay heed to the often-neglected zones: the nape, the ears, the feet, the ankles, and the back. Additionally, retract the foreskin and cleanse with the thumb, and spread the gluteal muscles apart and cleanse between. Use a scalp scrubber with shampoo and allow conditioner to sit for a few minutes before rinsing off. Cleanse hands thoroughly after using the toilet. Take a cold shower and wash hands after engaging in physical activity at the gym.
@@ -41,19 +41,19 @@ Wear fresh undergarments and socks on a daily basis. Launder pillowcases and bed
 
 **Ongoing research:** Face yoga, gua sha, sugar, posture, african wash net.  
 
-<h2noanchor>Chapter 3</h2noanchor>
+<n2>Chapter 3</n2>
 ### Mobility
 
 Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is an efficient routine targeting flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including the eye movements and diaphragmatic breathing.
 
 **Ongoing research:** Chandra Namaskar.  
 
-<h2noanchor>Chapter 4</h2noanchor>
+<n2>Chapter 4</n2>
 ### Strength
 
 **Ongoing research:** Weightlifting, long-distance running, boxing.  
 
-<h2noanchor>Chapter 4</h2noanchor>
+<n2>Chapter 4</n2>
 ### Sexual Stamina
 
 Mastery over sexual stamina requires proficiency in the following four domains: (1) achieving a balance in the power and tone of the pelvic floor muscles, (2) utilising diaphragmatic breathing, (3) developing a 'calm arousal' state of mind, and (4) conditioning the body through the practice of edging.
@@ -71,12 +71,12 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 Areas of ongoing research: diaphragmatic breathing.  
 
-<h2noanchor>Chapter 5</h2noanchor>
+<n2>Chapter 5</n2>
 ### Diet
 
 **Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.  
 
-<h2noanchor>Chapter 6</h2noanchor>
+<n2>Chapter 6</n2>
 ### Psychosociology
 
 The most beautiful sound a person can hear is their own name.
