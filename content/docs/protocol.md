@@ -24,3 +24,5 @@ In the realm of daily life and the ever-changing quest for efficiency, it's cruc
 
 Whenever remembered perform mewing, after food use miswak.
 
+<footnote>A special thank you to the likes of Bryan Johnson, Andrew Huberman, Lex Freidman.</footnote>
+
