@@ -13,6 +13,7 @@ In the realm of profound introspection and unwavering self-reflection, where tho
 
 Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.
 
+
 <h2noanchor>Chapter 1</h2noanchor>
 ### Dentistry
 
@@ -28,6 +29,7 @@ Salt gargling, a practice rooted in traditional medicine, involves rinsing the m
 
 **Ongoing research:** Tea tree oil.
 
+<br>
 <h2noanchor>Chapter 2</h2noanchor>
 ### Dermatology
 
@@ -41,6 +43,7 @@ Wear fresh undergarments and socks on a daily basis. Launder pillowcases and bed
 
 **Ongoing research:** Face yoga, gua sha, sugar, posture, african wash net.
 
+<br>
 <h2noanchor>Chapter 3</h2noanchor>
 ### Mobility
 
@@ -48,10 +51,13 @@ Maintaining joint mobility and muscle flexibility is crucial for prophylaxis aga
 
 **Ongoing research:** Chandra Namaskar.
 
+<br>
+<h2noanchor>Chapter 4</h2noanchor>
 ### Strength
 
 **Ongoing research:** Weightlifting, long-distance running, boxing.
 
+<br>
 <h2noanchor>Chapter 4</h2noanchor>
 ### Sexual Stamina
 
@@ -70,11 +76,13 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 Areas of ongoing research: diaphragmatic breathing.
 
+<br>
 <h2noanchor>Chapter 5</h2noanchor>
 ### Diet
 
 **Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.
 
+<br>
 <h2noanchor>Chapter 6</h2noanchor>
 ### Psychosociology
 
