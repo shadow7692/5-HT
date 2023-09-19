@@ -69,7 +69,7 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 **3** A negative emotional state causes the activation of the sympathetic nervous system, and the consumption of pornography causes overstimulation, both of which lower the threshold to reach the point of no return.
 
-Areas of ongoing research: diaphragmatic breathing.  
+**Ongoing research:** diaphragmatic breathing.
 
 <n2>Chapter 5</n2>
 ### Diet
