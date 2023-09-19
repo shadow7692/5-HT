@@ -6,7 +6,7 @@ bookHidden: false
 
 ### PROTOCOL
 
-Inspired by Blueprint by Bryan Johnson.
+In the realm of daily life and the ever-changing quest for efficiency, it's crucial to maintain a routine. This routine is a dynamic entity, always updating as we uncover new information and make fresh discoveries. Now, let's take a look at its current state.
 
 ```
 05:30  Brush teeth, scrape tongue, floss, salt gargle, shower using scalp scrubber and silicone scrubber.
