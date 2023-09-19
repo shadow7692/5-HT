@@ -155,6 +155,10 @@ ul.pagination {
   input.toggle:checked + label::after {
     content: "▾";
   }
+
+  label::after {
+    color: #bbbbbb;
+  }
 }
 
 // for RTL support
