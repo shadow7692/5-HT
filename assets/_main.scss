@@ -136,10 +136,10 @@ ul.pagination {
     background: var(--body-background);
 
     @include fixed;
-  }
 
-  .book-menu-content ul:nth-child(2) {
-    color: #aaaaaa;
+    nav ul:nth-child(2) {
+      color: #aaaaaa;
+    }
   }
 
   a,
