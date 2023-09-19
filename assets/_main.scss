@@ -21,7 +21,7 @@ body {
   }
 }
 
-h2noanchor {
+h3noanchor {
   padding: 0px;
   margin-bottom: 0px;
   font-size: 24px;
@@ -30,9 +30,9 @@ h2noanchor {
 }
 
 
-h3noanchor {
+h2noanchor {
   padding: 0px;
-  padding-top: 20px;
+  padding-top: 0px;
   margin-top: 0px;
   font-size: 14px;
   font-weight: bold;
@@ -163,10 +163,6 @@ ul.pagination {
 
   input.toggle:checked + label::after {
     content: "▾";
-  }
-
-  label::after {
-    color: #bbbbbb;
   }
 }
 
