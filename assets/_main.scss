@@ -32,10 +32,10 @@ h3noanchor {
 
 h2noanchor {
   padding: 0px;
-  padding-top: 0px;
+  padding-top: 20px;
   margin: 0px;
   margin-bottom: -20px;
-  margin-top: 10px;
+  margin-top: 20px;
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
@@ -119,6 +119,7 @@ ul.pagination {
 .book-brand {
   margin-top: 0;
   margin-bottom: $padding-16;
+  font-weight: bold;
 
   img {
     height: 1.5em;
