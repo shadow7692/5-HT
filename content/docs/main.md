@@ -11,9 +11,8 @@ In the realm of profound introspection and unwavering self-reflection, where tho
 
 > *“Your body is a temple, your mind is a garden, your soul is a mirror.” - Unknown*
 
-Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.
+Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.  
 
-<br/>
 <h2noanchor>Chapter 1</h2noanchor>
 ### Dentistry
 
@@ -27,9 +26,8 @@ Dental flossing plays a crucial role in oral health by cleaning the tight spaces
 
 Salt gargling, a practice rooted in traditional medicine, involves rinsing the mouth with a warm saline solution. The saltwater rinse helps create an inhospitable environment for bacteria by altering the pH balance in the mouth. Additionally, it can soothe minor gum irritations and provide temporary relief from a sore throat or mouth ulcers.
 
-**Ongoing research:** Tea tree oil.
+**Ongoing research:** Tea tree oil.  
 
-<br/>
 <h2noanchor>Chapter 2</h2noanchor>
 ### Dermatology
 
@@ -41,23 +39,20 @@ Moisturise daily and if incorporating retinol every other day into the skincare 
 
 Wear fresh undergarments and socks on a daily basis. Launder pillowcases and bedsheets regularly.
 
-**Ongoing research:** Face yoga, gua sha, sugar, posture, african wash net.
+**Ongoing research:** Face yoga, gua sha, sugar, posture, african wash net.  
 
-<br/>
 <h2noanchor>Chapter 3</h2noanchor>
 ### Mobility
 
 Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is an efficient routine targeting flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including the eye movements and diaphragmatic breathing.
 
-**Ongoing research:** Chandra Namaskar.
+**Ongoing research:** Chandra Namaskar.  
 
-<br/>
 <h2noanchor>Chapter 4</h2noanchor>
 ### Strength
 
-**Ongoing research:** Weightlifting, long-distance running, boxing.
+**Ongoing research:** Weightlifting, long-distance running, boxing.  
 
-<br/>
 <h2noanchor>Chapter 4</h2noanchor>
 ### Sexual Stamina
 
@@ -74,15 +69,13 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 **3** A negative emotional state causes the activation of the sympathetic nervous system, and the consumption of pornography causes overstimulation, both of which lower the threshold to reach the point of no return.
 
-Areas of ongoing research: diaphragmatic breathing.
+Areas of ongoing research: diaphragmatic breathing.  
 
-<br/>
 <h2noanchor>Chapter 5</h2noanchor>
 ### Diet
 
-**Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.
+**Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.  
 
-<br/>
 <h2noanchor>Chapter 6</h2noanchor>
 ### Psychosociology
 
