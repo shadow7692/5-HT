@@ -138,6 +138,10 @@ ul.pagination {
     @include fixed;
   }
 
+  .book-menu-content ul:nth-child(2) {
+    color: #aaaaaa;
+  }
+
   a,
   label {
     color: inherit;
