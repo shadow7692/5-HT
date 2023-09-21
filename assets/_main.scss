@@ -28,7 +28,6 @@ purple-banner {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 5px;
-  margin: 0; /* Remove default margin */
   font-family: 'SourceSans3';
   font-weight: bold;
   font-size: 20px;
@@ -42,11 +41,6 @@ purple-banner a.anchor {
   font-size: 0.75em;
   vertical-align: middle;
   text-decoration: none;
-}
-
-purple-banner:hover a.anchor,
-purple-banner a.anchor:focus {
-  opacity: 0;
 }
 
 elmenu {
