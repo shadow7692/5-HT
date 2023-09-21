@@ -5,6 +5,8 @@ BookToC: true
 weight: 1
 ---
 
+<draft>
+
 <n2>Preface</n2>
 
 In the realm of profound introspection and unwavering self-reflection, where thoughts converge with the deepest recesses of the soul, emerges a work rooted in the timeless pursuit of wisdom. This book seeks to navigate the vast landscapes of the mind, to offer guidance to those who yearn for understanding. Within these pages, the reader will find a heartfelt exploration of the human experience, intended to serve as a companion and a guide on the path towards self-mastery.
@@ -86,3 +88,5 @@ Avoid tortured meat because the negative emotion and negative energy will transf
 Help people where you can.
 
 **Ongoing research:** Body language, manifestation.
+
+</draft>
