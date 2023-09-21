@@ -15,7 +15,9 @@ In the realm of profound introspection and unwavering self-reflection, where tho
 
 Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.
 
+<div class="purple-banner">
 ## Physical
+</div>
 
 <n2>Chapter 1</n2>
 ### Dentistry

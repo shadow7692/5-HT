@@ -21,6 +21,34 @@ body {
   }
 }
 
+purple-banner {
+  background-color: purple; /* Set the background color to purple */
+  color: white; /* Set the text color to white for better visibility */
+  padding: 10px; /* Add padding for spacing inside the banner */
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin: 0; /* Remove default margin */
+  font-family: 'SourceSans3';
+  font-weight: bold;
+  font-size: 20px;
+  width: 100%; /* Make the banner as wide as its container */
+  box-sizing: border-box; /* Include padding in the width calculation */
+}
+
+/* Styles for anchor links within the banner */
+purple-banner a.anchor {
+  opacity: 0;
+  font-size: 0.75em;
+  vertical-align: middle;
+  text-decoration: none;
+}
+
+purple-banner:hover a.anchor,
+purple-banner a.anchor:focus {
+  opacity: 0;
+}
+
 elmenu {
   color: #aaaaaa !important;
 }
