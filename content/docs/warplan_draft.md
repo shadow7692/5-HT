@@ -3,6 +3,7 @@ title: "War Plan"
 date: 2023-09-17T15:48:17+01:00
 bookHidden: false
 weight: 3
+draft: true
 ---
 
 <n2>Rules & Constraints</n2>
@@ -10,8 +11,8 @@ weight: 3
 
 Within the domain of your daily routines and the unending pursuit of efficiency, it remains vital to keep in mind the existing rules and constraints concerning the various addictions and activities that deplete your time.
 
-1. Moderate use of social media by checking YouTube and Instagram home/explore/reels once per day segment for a maximum of ten minutes. All other apps are to only be used for messaging people.
-2. Do not expend energy on people who are not in my life.
+1. Moderate use of social media by only checking YouTube and Instagram home/explore/reels once per day segment for a maximum of ten minutes. All other apps are to only be used for messaging people.
+2. Do not expend energy on people who are not in your life.
 
 <n2>Thankfulness</n2>
 ### Gratitude
