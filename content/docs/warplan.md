@@ -1,12 +1,12 @@
 ---
-title: "Mantras"
+title: "The War Plan"
 date: 2023-09-17T15:48:17+01:00
 bookHidden: false
 weight: 3
 ---
 
-<n2>War Plan: Chapter One</n2>
-### Rules
+<n2>Rules & Constraints</n2>
+### Regulating
 
 Within the domain of your daily routines and the unending pursuit of efficiency, it remains vital to keep in mind the existing rules and constraints concerning the various addictions and activities that deplete your time.
 

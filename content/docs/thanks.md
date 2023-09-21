@@ -1,12 +1,12 @@
 ---
-title: "Acknowledgements"
+title: "Thanks"
 date: 2023-09-17T15:48:17+01:00
 bookHidden: false
-weight: 3
+weight: 10
 ---
 
-<n2>Acknowledgements</n2>
-### Thanks
+<n2>Thanks</n2>
+### Acknowledgements
 
 In the spirit of gratitude, I would like to extend my heartfelt thanks to individuals who have greatly inspired and contributed to my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir*. I am deeply appreciative of the wisdom and inspiration you have all shared, which have enriched my understanding and perspective in countless ways.
 
