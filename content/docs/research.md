@@ -17,10 +17,6 @@ Let it be known that this work does not possess all the answers. Rather, it humb
 
 ## Physical
 
-## Mental
-
-## Spiritual
-
 <n2>Chapter 1</n2>
 ### Dentistry
 
@@ -61,6 +57,8 @@ Maintaining joint mobility and muscle flexibility is crucial for prophylaxis aga
 
 **Ongoing research:** Weightlifting, long-distance running, boxing.  
 
+## Mental
+
 <n2>Chapter 4</n2>
 ### Sexual Stamina
 
@@ -83,6 +81,8 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 ### Diet
 
 **Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.  
+
+## Spiritual
 
 <n2>Chapter 6</n2>
 ### Psychosociology
