@@ -19,7 +19,7 @@ Let it be known that this work does not possess all the answers. Rather, it humb
 ### Physiognomy
 
 
-<n2>Chapter 2</n2>
+<n2>Maintaining Oral Health</n2>
 ### Dentistry
 
 Mechanical plaque control, achieved by creating friction between toothbrush bristles or Miswak plant fibers and the tooth surface, involves cleaning teeth with an electric toothbrush twice daily and using *Salvadora persica* sticks after every meal or snack. Toothpaste containing CoQ10 and Miswak contributes to chemical plaque control through the presence of calcium and fluoride ions, promoting the remineralization of tooth structure and exhibiting mild antibacterial properties.
@@ -34,7 +34,7 @@ Salt gargling, a practice rooted in traditional medicine, involves rinsing the m
 
 **Ongoing research:** Tea tree oil.  
 
-<n2>Chapter 3</n2>
+<n2>Managing Skin</n2>
 ### Dermatology
 
 Shower daily, utilising soap to cleanse the entire body beyond mere hand and armpit gestures. Pay heed to the often-neglected zones: the nape, the ears, the feet, the ankles, and the back. Additionally, retract the foreskin and cleanse with the thumb, and spread the gluteal muscles apart and cleanse between. Use a scalp scrubber with shampoo and allow conditioner to sit for a few minutes before rinsing off. Cleanse hands thoroughly after using the toilet. Take a cold shower and wash hands after engaging in physical activity at the gym.
