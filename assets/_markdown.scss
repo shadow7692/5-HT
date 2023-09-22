@@ -9,7 +9,9 @@
   }
 
   h1,
+
   h2 {
+    position: relative; /* Make the h2 element a positioning context */
     padding-top: 60px;
     margin: 0px 0px 10px;
     font-size: 20px;
@@ -18,18 +20,35 @@
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
-    a.anchor {
-      opacity: 0;
-      font-size: 0.75em;
-      vertical-align: middle;
-      text-decoration: none;
-    }
-
-    &:hover a.anchor,
-    a.anchor:focus {
-      opacity: 0;
-    }
   }
+  
+  h2::before {
+    content: ""; /* Create an empty content box */
+    background-image: url('banner_1.png'); /* Replace 'path/to/your-image.jpg' with the actual path to your image */
+    background-size: cover; /* Scale the image to cover the entire h2 element */
+    background-position: center; /* Center the image */
+    position: absolute; /* Position the image absolutely within the h2 element */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Place the image behind the text */
+  }
+  
+  /* Style for the anchor link */
+  h2 a.anchor {
+    opacity: 0;
+    font-size: 0.75em;
+    vertical-align: middle;
+    text-decoration: none;
+  }
+  
+  /* Hover effect for the anchor link */
+  h2:hover a.anchor,
+  h2:focus a.anchor {
+    opacity: 0;
+  }
+  
   h3 {
     padding-top: 50px;
     margin-top: -70px;
@@ -203,28 +222,6 @@
     &[open] summary {
       margin-bottom: 0;
     }
-  }
-
-  purple-banner {
-    background-color: purple; /* Set the background color to purple */
-    color: white; /* Set the text color to white for better visibility */
-    padding: 10px; /* Add padding for spacing inside the banner */
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 5px;
-    font-family: 'SourceSans3';
-    font-weight: bold;
-    font-size: 20px;
-    width: 100%; /* Make the banner as wide as its container */
-    box-sizing: border-box; /* Include padding in the width calculation */
-  }
-  
-  /* Styles for anchor links within the banner */
-  purple-banner a.anchor {
-    opacity: 0;
-    font-size: 0.75em;
-    vertical-align: middle;
-    text-decoration: none;
   }
 
   figure {

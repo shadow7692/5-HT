@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Journal"
 date: 2023-09-17T15:48:17+01:00
 BookToC: true
 weight: 2
@@ -15,11 +15,13 @@ In the realm of profound introspection and unwavering self-reflection, where tho
 
 Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.
 
-{{<div class="purple-banner">
-  ## Physical
-</div>}}
+## Physical
 
-<n2>Chapter 1</n2>
+<n2>Defining Beauty</n2>
+### Physiognomy
+
+
+<n2>Chapter 2</n2>
 ### Dentistry
 
 Mechanical plaque control, achieved by creating friction between toothbrush bristles or Miswak plant fibers and the tooth surface, involves cleaning teeth with an electric toothbrush twice daily and using *Salvadora persica* sticks after every meal or snack. Toothpaste containing CoQ10 and Miswak contributes to chemical plaque control through the presence of calcium and fluoride ions, promoting the remineralization of tooth structure and exhibiting mild antibacterial properties.
@@ -34,7 +36,7 @@ Salt gargling, a practice rooted in traditional medicine, involves rinsing the m
 
 **Ongoing research:** Tea tree oil.  
 
-<n2>Chapter 2</n2>
+<n2>Chapter 3</n2>
 ### Dermatology
 
 Shower daily, utilising soap to cleanse the entire body beyond mere hand and armpit gestures. Pay heed to the often-neglected zones: the nape, the ears, the feet, the ankles, and the back. Additionally, retract the foreskin and cleanse with the thumb, and spread the gluteal muscles apart and cleanse between. Use a scalp scrubber with shampoo and allow conditioner to sit for a few minutes before rinsing off. Cleanse hands thoroughly after using the toilet. Take a cold shower and wash hands after engaging in physical activity at the gym.
