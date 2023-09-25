@@ -91,9 +91,17 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 The most beautiful sound a person can hear is their own name.
 
-Avoid tortured meat because the negative emotion and negative energy will transfer. The Vedas say it is better to be a vegetarian.
+The Vedas say it is better to be a vegetarian (but not a rule). Avoid tortured meat because the negative emotion and negative energy will transfer. 
 
-Help people where you can.
+Help people where you can. When we tap into the intention of giving we are channeling divine will, and automatically change our state of consciousness. 
+
+Intention is the resoluteness in my decision to have and to act. Use inner intention to execute the process, and outer intention to operate from the end state of the assumption of already having achieved the goal. Not caring about when it happens or how it happens, only that you have it is outer intention. It both belongs to us and does not belong to us at the same time. The processes are not static. Concieve how it could help your family and others, and how you could serve more people.
+
+The birth of suffering stems from when you keep reliving the pain and trauma. That pain should only be used to make a firm and committed decision. 
+
+Letting Go: The Pathway of Surrender by David R. Hawkins. Think about a goal and observe what comes up. Accept the feeling of counter-intention, and ask for more resistance. Allow yourself to be flooded with resistance.
+
+What can I be/become > What can I do > What can I have. Become the right self and you will do the right things and have the right things.
 
 **Ongoing research:** Body language, manifestation.
 

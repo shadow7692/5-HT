@@ -30,14 +30,16 @@ Gratitude, a profound acknowledgement of the blessings within our lives, serves 
 
 Visualise having already achieved your long-term goals. Create a vision board, and add a number and label to each item. Split the board into long-term long-term goals and short-term long-term goals, ideally 12 months ahead.
 
-Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Visualise being successful with it.
+- **Occupation.** Eye surgeon. Businessman. Father.
+- **Relationships.** Great relationship with parents. A loyal brotherhood and a large diverse network of skilled individuals. Only female friends that I consider close family. A devoted, loyal, loving partner.
+- **Possessions.** A minimal ultramodern house with a beautiful scenic view. A few supercars. 
 
-Use inner intention to execute the process, and outer intention to operate from the end state of the assumption of already having achieved the goal. The processes are not static.
+Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Visualise being successful with it.
 
 **Research:** visualise ideal self, embodiment.
 
 <n2>Core Values</n2>
 ### Principles
 
-In the spirit of gratitude, I would like to extend my heartfelt thanks to individuals who have greatly inspired and contributed to my journey. *Andrew Huberman*, your profound insights into neuroscience and human potential have been a guiding light. *Lex Fridman*, your dedication to the pursuit of knowledge and meaningful conversations has been truly enlightening. *Bryan Johnson*, your visionary thinking and commitment to advancing humanity's future have been a constant source of inspiration. I am deeply appreciative of the wisdom and inspiration you have all shared, which have enriched my understanding and perspective in countless ways.
+
 
