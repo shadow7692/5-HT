@@ -5,7 +5,7 @@ BookToC: true
 weight: 2
 ---
 
-<n2>Preface</n2>
+<n2a>Preface</n2a>
 
 In the realm of profound introspection and unwavering self-reflection, where thoughts converge with the deepest recesses of the soul, emerges a work rooted in the timeless pursuit of wisdom. This book seeks to navigate the vast landscapes of the mind, to offer guidance to those who yearn for understanding. Within these pages, the reader will find a heartfelt exploration of the human experience, intended to serve as a companion and a guide on the path towards self-mastery.
 
@@ -13,10 +13,12 @@ In the realm of profound introspection and unwavering self-reflection, where tho
 
 Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.
 
-***Future research topics:*** *tea tree oil, craniology for mewing, electrophysiology, kinesiology for combat training, parapsychology, psychology.*
+***Future research topics:*** *tea tree oil, craniology for mewing, electrophysiology, kinesiology for combat training, parapsychology, psychology, face yoga, gua sha, sugar, posture, african wash net, chandra namaksar.*
 
-### Dentistry
+<!--> PHYSICAL PLANE <--->
+
 <n2>Optimising Oral Health</n2>
+### Dentistry
 
 Mechanical plaque control, achieved by creating friction between toothbrush bristles or Miswak plant fibers and the tooth surface, involves cleaning teeth with an electric toothbrush twice daily and using *Salvadora persica* sticks after every meal or snack. Toothpaste containing CoQ10 and Miswak contributes to chemical plaque control through the presence of calcium and fluoride ions, promoting the remineralization of tooth structure and exhibiting mild antibacterial properties.
 
@@ -28,20 +30,7 @@ Dental flossing plays a crucial role in oral health by cleaning the tight spaces
 
 Salt gargling, a practice rooted in traditional medicine, involves rinsing the mouth with a warm saline solution. The saltwater rinse helps create an inhospitable environment for bacteria by altering the pH balance in the mouth. Additionally, it can soothe minor gum irritations and provide temporary relief from a sore throat or mouth ulcers.
 
-**Ongoing research:** Tea tree oil.  
-
-
-<n2>Defining Beauty</n2>
-### Physiognomy
-
-What are the components of genetically gifted individuals?
-
-Include mewing.
-
-
-
-
-<n2>Skincare</n2>
+<n2>Finding The Perfect Skincare Routine</n2>
 ### Dermatology
 
 Shower daily, utilising soap to cleanse the entire body beyond mere hand and armpit gestures. Pay heed to the often-neglected zones: the nape, the ears, the feet, the ankles, and the back. Additionally, retract the foreskin and cleanse with the thumb, and spread the gluteal muscles apart and cleanse between. Use a scalp scrubber with shampoo and allow conditioner to sit for a few minutes before rinsing off. Cleanse hands thoroughly after using the toilet. Take a cold shower and wash hands after engaging in physical activity at the gym.
@@ -52,14 +41,25 @@ Moisturise daily and if incorporating retinol every other day into the skincare 
 
 Wear fresh undergarments and socks on a daily basis. Launder pillowcases and bedsheets regularly.
 
-**Ongoing research:** Face yoga, gua sha, sugar, posture, african wash net.  
-
-<n2>Arthrology</n2>
-### Joint Mobility
+<n2>Staying Mobile</n2>
+### Arthrology
 
 Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is an efficient routine targeting flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including the eye movements and diaphragmatic breathing.
 
-**Ongoing research:** Chandra Namaskar.  
+
+
+
+<draft>
+
+<n2a>Everything Beyond This Point Is Experimental And Subject To Heavy Change</n2a>
+
+<n2>Defining Beauty</n2>
+### Physiognomy
+
+What are the components of genetically gifted individuals?
+
+Include mewing.
+
 
 <n2>Myology</n2>
 ### Bodybuilding
@@ -89,7 +89,8 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 **Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.  
 
-## Mentality
+
+<!--> MENTAL PLANE <--->
 
 <n2>Chapter 6</n2>
 ### Psychosociology
@@ -98,7 +99,8 @@ The most beautiful sound a person can hear is their own name.
 
 **Ongoing research:** Body language, manifestation.
 
-## Spirituality
+
+<!--> SPIRITUAL PLANE <--->
 
 <n2>Astrobiology</n2>
 ### Manifestation
@@ -117,5 +119,5 @@ What can I be/become > What can I do > What can I have. Become the right self an
 
 **Ongoing research:** Body language, manifestation.
 
-
+<draft>
 
