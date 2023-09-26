@@ -13,14 +13,10 @@ In the realm of profound introspection and unwavering self-reflection, where tho
 
 Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.
 
-## Physical
+***Future research topics:*** *tea tree oil, craniology for mewing, electrophysiology, kinesiology for combat training, parapsychology, psychology.*
 
-<n2>Defining Beauty</n2>
-### Physiognomy
-
-
-<n2>Oral Health</n2>
 ### Dentistry
+<n2>Optimising Oral Health</n2>
 
 Mechanical plaque control, achieved by creating friction between toothbrush bristles or Miswak plant fibers and the tooth surface, involves cleaning teeth with an electric toothbrush twice daily and using *Salvadora persica* sticks after every meal or snack. Toothpaste containing CoQ10 and Miswak contributes to chemical plaque control through the presence of calcium and fluoride ions, promoting the remineralization of tooth structure and exhibiting mild antibacterial properties.
 
@@ -33,6 +29,17 @@ Dental flossing plays a crucial role in oral health by cleaning the tight spaces
 Salt gargling, a practice rooted in traditional medicine, involves rinsing the mouth with a warm saline solution. The saltwater rinse helps create an inhospitable environment for bacteria by altering the pH balance in the mouth. Additionally, it can soothe minor gum irritations and provide temporary relief from a sore throat or mouth ulcers.
 
 **Ongoing research:** Tea tree oil.  
+
+
+<n2>Defining Beauty</n2>
+### Physiognomy
+
+What are the components of genetically gifted individuals?
+
+Include mewing.
+
+
+
 
 <n2>Skincare</n2>
 ### Dermatology
@@ -47,22 +54,20 @@ Wear fresh undergarments and socks on a daily basis. Launder pillowcases and bed
 
 **Ongoing research:** Face yoga, gua sha, sugar, posture, african wash net.  
 
-<n2>Chapter 3</n2>
-### Mobility
+<n2>Arthrology</n2>
+### Joint Mobility
 
 Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is an efficient routine targeting flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including the eye movements and diaphragmatic breathing.
 
 **Ongoing research:** Chandra Namaskar.  
 
-<n2>Chapter 4</n2>
-### Strength
+<n2>Myology</n2>
+### Bodybuilding
 
 **Ongoing research:** Weightlifting, long-distance running, boxing.  
 
-## Mental
-
-<n2>Chapter 4</n2>
-### Sexual Stamina
+<n2>Sexology</n2>
+### Sexual Endurance
 
 Mastery over sexual stamina requires proficiency in the following four domains: (1) achieving a balance in the power and tone of the pelvic floor muscles, (2) utilising diaphragmatic breathing, (3) developing a 'calm arousal' state of mind, and (4) conditioning the body through the practice of edging.
 
@@ -79,17 +84,24 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 **Ongoing research:** diaphragmatic breathing.
 
-<n2>Chapter 5</n2>
-### Diet
+<n2>Sitiology</n2>
+### Food & Diet
 
 **Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.  
 
-## Spiritual
+## Mentality
 
 <n2>Chapter 6</n2>
 ### Psychosociology
 
 The most beautiful sound a person can hear is their own name.
+
+**Ongoing research:** Body language, manifestation.
+
+## Spirituality
+
+<n2>Astrobiology</n2>
+### Manifestation
 
 The Vedas say it is better to be a vegetarian (but not a rule). Avoid tortured meat because the negative emotion and negative energy will transfer. 
 
@@ -104,4 +116,6 @@ Letting Go: The Pathway of Surrender by David R. Hawkins. Think about a goal and
 What can I be/become > What can I do > What can I have. Become the right self and you will do the right things and have the right things.
 
 **Ongoing research:** Body language, manifestation.
+
+
 
