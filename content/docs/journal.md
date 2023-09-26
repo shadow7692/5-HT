@@ -5,6 +5,8 @@ BookToC: true
 weight: 2
 ---
 
+
+
 <n2a>Preface</n2a>
 
 In the realm of profound introspection and unwavering self-reflection, where thoughts converge with the deepest recesses of the soul, emerges a work rooted in the timeless pursuit of wisdom. This book seeks to navigate the vast landscapes of the mind, to offer guidance to those who yearn for understanding. Within these pages, the reader will find a heartfelt exploration of the human experience, intended to serve as a companion and a guide on the path towards self-mastery.
@@ -13,9 +15,11 @@ In the realm of profound introspection and unwavering self-reflection, where tho
 
 Let it be known that this work does not possess all the answers. Rather, it humbly invites you, dear reader, to embark on a journey to forge your own path towards enlightenment. For it is through the process of introspection, self-awareness, and the pursuit of virtue that one can attain a profound sense of harmony amidst the chaos of existence. May you discover the strength to navigate the trials and tribulations of life with grace and resilience.
 
-***Future research topics:*** *tea tree oil, craniology for mewing, electrophysiology, kinesiology for combat training, parapsychology, psychology, face yoga, gua sha, sugar, posture, african wash net, chandra namaksar.*
+
 
 {{/* PHYSICAL PLANE */}}
+
+
 
 <n2>Optimising Oral Health</n2>
 ### Dentistry
@@ -30,6 +34,8 @@ Dental flossing plays a crucial role in oral health by cleaning the tight spaces
 
 Salt gargling, a practice rooted in traditional medicine, involves rinsing the mouth with a warm saline solution. The saltwater rinse helps create an inhospitable environment for bacteria by altering the pH balance in the mouth. Additionally, it can soothe minor gum irritations and provide temporary relief from a sore throat or mouth ulcers.
 
+
+
 <n2>Finding The Perfect Skincare Routine</n2>
 ### Dermatology
 
@@ -41,6 +47,8 @@ Moisturise daily and if incorporating retinol every other day into the skincare 
 
 Wear fresh undergarments and socks on a daily basis. Launder pillowcases and bedsheets regularly.
 
+
+
 <n2>Staying Mobile</n2>
 ### Arthrology
 
@@ -48,10 +56,11 @@ Maintaining joint mobility and muscle flexibility is crucial for prophylaxis aga
 
 
 
-
 <draft>
 
 <n2a>Everything Beyond This Point Is Experimental And Subject To Heavy Change</n2a>
+
+***Future research topics:*** *tea tree oil, craniology for mewing, electrophysiology, kinesiology for combat training, parapsychology, psychology, face yoga, gua sha, sugar, posture, african wash net, chandra namaksar.*
 
 <n2>Defining Beauty</n2>
 ### Physiognomy
