@@ -17,10 +17,6 @@ Let it be known that this work does not possess all the answers. Rather, it humb
 
 
 
-{{/* PHYSICAL PLANE */}}
-
-
-
 <n2>Optimising Oral Health</n2>
 ### Dentistry
 
@@ -58,7 +54,7 @@ Maintaining joint mobility and muscle flexibility is crucial for prophylaxis aga
 
 <draft>
 
-<n2a>Everything Beyond This Point Is Experimental And Subject To Heavy Change</n2a>
+**Everything Beyond This Point Is Experimental And Subject To Heavy Change.**
 
 ***Future research topics:*** *tea tree oil, craniology for mewing, electrophysiology, kinesiology for combat training, parapsychology, psychology, face yoga, gua sha, sugar, posture, african wash net, chandra namaksar.*
 
@@ -98,17 +94,12 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 **Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.  
 
-
-{{/* MENTAL PLANE */}}
-
 <n2>Chapter 6</n2>
 ### Psychosociology
 
 The most beautiful sound a person can hear is their own name.
 
 **Ongoing research:** Body language, manifestation.
-
-{{/* SPIRITUAL PLANE */}}
 
 <n2>Astrobiology</n2>
 ### Manifestation
