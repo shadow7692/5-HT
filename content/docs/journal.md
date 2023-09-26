@@ -15,7 +15,7 @@ Let it be known that this work does not possess all the answers. Rather, it humb
 
 ***Future research topics:*** *tea tree oil, craniology for mewing, electrophysiology, kinesiology for combat training, parapsychology, psychology, face yoga, gua sha, sugar, posture, african wash net, chandra namaksar.*
 
-<!--> PHYSICAL PLANE <--->
+{{/* PHYSICAL PLANE */}}
 
 <n2>Optimising Oral Health</n2>
 ### Dentistry
@@ -90,7 +90,7 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 **Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.  
 
 
-<!--> MENTAL PLANE <--->
+{{/* MENTAL PLANE */}}
 
 <n2>Chapter 6</n2>
 ### Psychosociology
@@ -99,8 +99,7 @@ The most beautiful sound a person can hear is their own name.
 
 **Ongoing research:** Body language, manifestation.
 
-
-<!--> SPIRITUAL PLANE <--->
+{{/* SPIRITUAL PLANE */}}
 
 <n2>Astrobiology</n2>
 ### Manifestation
