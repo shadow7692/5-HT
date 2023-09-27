@@ -17,6 +17,7 @@ In the realm of daily life and the ever-changing quest for efficiency, it’s cr
 
 Within the domain of your daily routines and the unending pursuit of efficiency, it remains vital to keep in mind the existing rules and constraints concerning the various addictions and activities that deplete your time.
 
+1. Sleep 
 1. Moderate use of social media by only checking YouTube and Instagram home/explore/reels once per day segment for a maximum of ten minutes. All other apps are to only be used for messaging people.
 2. Do not expend energy on people who are not in your life.
 
