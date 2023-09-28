@@ -60,7 +60,9 @@ As you embark on this journey towards your aspirations, let the spirit of genero
 
 In the crucible of suffering, find the catalyst for transformation. Use your pain and trauma as stepping stones towards resolute decisions. Explore the depths of your desires and confront the resistance that surfaces. Embrace it, for it is the crucible in which your true self is forged.
 
-Remember, it is not merely about what you can achieve or possess, but who you can become. Align yourself with the right path, and the right actions and possessions will follow suit. This, dear soul, is the mantra of your magnificent journey - a journey that begins with gratitude and unfolds through the power of visualisation, intention, and the unwavering belief that your destiny lies within your grasp. Embrace it with open arms, for your future awaits, resplendent with promise and potential.</i>
+Remember, it is not merely about what you can achieve or possess, but who you can become. Align yourself with the right path, and the right actions and possessions will follow suit. This, dear soul, is the mantra of your magnificent journey - a journey that begins with gratitude and unfolds through the power of visualisation, intention, and the unwavering belief that your destiny lies within your grasp. Embrace it with open arms, for your future awaits, resplendent with promise and potential.
+
+Become the most successful man of your entire bloodline.</i>
 
 
 
