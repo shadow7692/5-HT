@@ -66,13 +66,13 @@ What are the components of genetically gifted individuals?
 Include mewing.
 
 
-<n2>Myology</n2>
-### Bodybuilding
+<n2>Building An Aesthetic Body</n2>
+### Myology
 
 **Ongoing research:** Weightlifting, long-distance running, boxing.  
 
-<n2>Sexology</n2>
-### Sexual Endurance
+<n2>Mastering Sexual Endurance</n2>
+### Sexology
 
 Mastery over sexual stamina requires proficiency in the following four domains: (1) achieving a balance in the power and tone of the pelvic floor muscles, (2) utilising diaphragmatic breathing, (3) developing a 'calm arousal' state of mind, and (4) conditioning the body through the practice of edging.
 
@@ -89,19 +89,19 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 **Ongoing research:** diaphragmatic breathing.
 
-<n2>Sitiology</n2>
-### Food & Diet
+<n2>Eating To Nourish</n2>
+### Sitiology
 
 **Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.  
 
-<n2>Chapter 6</n2>
+<n2>Understanding People</n2>
 ### Psychosociology
 
 The most beautiful sound a person can hear is their own name.
 
 **Ongoing research:** Body language, manifestation.
 
-<n2>Astrobiology</n2>
+<n2>The Law Of Attraction</n2>
 ### Manifestation
 
 The Vedas say it is better to be a vegetarian (but not a rule). Avoid tortured meat because the negative emotion and negative energy will transfer. 

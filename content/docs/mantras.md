@@ -38,11 +38,11 @@ Visualise having already achieved your long-term goals. Create a vision board, a
 
 Long-term goals: (1) Occupational goals such as eye surgeon, businessman and father. (2) Relationship goals such as a great relationship with parents, a loyal brotherhood and a large diverse network of skilled individuals, only female friends that I consider close family, and a devoted, loyal, loving partner. (3) Material goals such as a minimal ultramodern house with a beautiful scenic view, and a few supercars.
 
-Short-term goals: (1) Achieve high marks (>70%) in FFP exams. (2) Attain research positions and publications in the field of ophthalmology. (3) Build muscle and lose body fat.
+Short-term goals: (1) Achieve high marks, above 70%, in FFP exams. (2) Attain research positions and publications in the field of ophthalmology. (3) Build muscle and lose body fat.
 
 Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Visualise being successful with it.
 
-**Research:** visualise ideal self, embodiment.
+{{/* To research: visualise ideal self, embodiment. */}}
 
 
 
@@ -54,17 +54,13 @@ Visualise yourself doing actions that will help you move closer towards these go
 <n2>Motivation</n2>
 ### You Can Do This
 
-<i>In the grand tapestry of life, gratitude reigns as our constant companion, a beacon of light guiding us through the labyrinth of challenges and aspirations. It is through gratitude that we uncover the hidden treasures strewn across our journey, enriching the very essence of our existence.
+<i>In the grand tapestry of life, gratitude reigns as our constant companion, a beacon of light guiding us through the labyrinth of challenges and aspirations. It is through gratitude that we uncover the hidden treasures strewn across our journey, enriching the very essence of our existence. 
 
-Visualisation, a potent tool for sculpting our future, invites us to transcend the boundaries of our current reality. Picture, if you will, the attainment of your loftiest aspirations, each goal meticulously etched on the canvas of your mind. With unwavering resolve, forge a path towards these ambitions, for in visualisation, the seeds of success are sown.
+Visualisation, a potent tool for sculpting our future, invites us to transcend the boundaries of our current reality. Picture, if you will, the attainment of your loftiest aspirations, each goal meticulously etched on the canvas of your mind. With unwavering resolve, forge a path towards these ambitions, for in visualisation, the seeds of success are sown. Envision the multifaceted facets of your life. Aspire to be not just an occupation, but an eye surgeon, a visionary businessman, a nurturing father. Cultivate not mere relationships, but deep connections with your parents, a loyal brotherhood, and a diverse network of talented souls.
 
-Envision the multifaceted facets of your life. Aspire to be not just an occupation, but an eye surgeon, a visionary businessman, a nurturing father. Cultivate not mere relationships, but deep connections with your parents, a loyal brotherhood, and a diverse network of talented souls. Cherish not just possessions, but a sleek, ultramodern abode with breathtaking vistas, and a collection of supercars that whisper tales of your achievements.
+As you embark on this journey towards your aspirations, let the spirit of generosity illuminate your path. Extend a helping hand to those in need, for in giving, you align with the cosmic forces that shape our destinies, elevating your consciousness to new heights. Intention, the driving force behind manifestation, lies at the heart of your journey. Channel your inner resolve to take decisive action, while allowing the outer intention to unfold the path towards your desired destination. Release the shackles of concern for when and how, focusing instead on the unwavering belief that your goals are already yours to claim. Embrace the notion that what you possess is both yours and yet transcends you, a gift to be shared for the betterment of all.
 
-As you embark on this journey towards your aspirations, let the spirit of generosity illuminate your path. Extend a helping hand to those in need, for in giving, you align with the cosmic forces that shape our destinies, elevating your consciousness to new heights.
-
-Intention, the driving force behind manifestation, lies at the heart of your journey. Channel your inner resolve to take decisive action, while allowing the outer intention to unfold the path towards your desired destination. Release the shackles of concern for when and how, focusing instead on the unwavering belief that your goals are already yours to claim. Embrace the notion that what you possess is both yours and yet transcends you, a gift to be shared for the betterment of all.
-
-In the crucible of suffering, find the catalyst for transformation. Use your pain and trauma as stepping stones towards resolute decisions. As you journey through the pages of "Letting Go: The Pathway of Surrender" by David R. Hawkins, explore the depths of your desires and confront the resistance that surfaces. Embrace it, for it is the crucible in which your true self is forged.
+In the crucible of suffering, find the catalyst for transformation. Use your pain and trauma as stepping stones towards resolute decisions. Explore the depths of your desires and confront the resistance that surfaces. Embrace it, for it is the crucible in which your true self is forged.
 
 Remember, it is not merely about what you can achieve or possess, but who you can become. Align yourself with the right path, and the right actions and possessions will follow suit. This, dear soul, is the mantra of your magnificent journey - a journey that begins with gratitude and unfolds through the power of visualisation, intention, and the unwavering belief that your destiny lies within your grasp. Embrace it with open arms, for your future awaits, resplendent with promise and potential.</i>
 
