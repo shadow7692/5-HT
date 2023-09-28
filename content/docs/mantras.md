@@ -20,7 +20,7 @@ Within the domain of your daily routines and the unending pursuit of efficiency,
 <n2>Thankfulness</n2>
 ### Gratitude
 
-In the spirit of gratitude, I would like to extend my heartfelt thanks to individuals who have greatly inspired and contributed to my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew*. I am deeply appreciative of the wisdom and inspiration you have all shared, which have enriched my understanding and perspective in countless ways.
+In the spirit of gratitude, I would like to extend my heartfelt thanks to individuals who have greatly inspired and contributed to my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew, Andrew Tate, Tristan Tate*. I am deeply appreciative of the wisdom and inspiration you have all shared, which have enriched my understanding and perspective in countless ways.
 
 I would also like to express a special and profound gratitude to my mother, who played an invaluable role in shaping my journey of knowledge and well-being. She shared her wisdom long before I embarked on my own research. Her nurturing guidance and unwavering support have been a foundation upon which I've built my quest for understanding. Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for instilling in me the importance of seeking knowledge and embracing the treasures of herbal medicine.
 
