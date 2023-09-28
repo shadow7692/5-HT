@@ -1,9 +1,52 @@
 ---
-title: "Motivation"
+title: "Mantras"
 date: 2023-09-17T15:48:17+01:00
 bookHidden: false
 weight: 1
 ---
+
+<n2>Rules & Constraints</n2>
+### Regulating
+
+Within the domain of your daily routines and the unending pursuit of efficiency, it remains vital to keep in mind the existing rules and constraints concerning the various addictions and activities that deplete your time.
+
+1. You must have 6-8 hours sleep every night.
+2. You must get sunlight every day.
+3. You must moderate use of social media.
+4. You must not expend energy on people who are not in your life.
+
+
+
+<n2>Thankfulness</n2>
+### Gratitude
+
+In the spirit of gratitude, I would like to extend my heartfelt thanks to individuals who have greatly inspired and contributed to my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew*. I am deeply appreciative of the wisdom and inspiration you have all shared, which have enriched my understanding and perspective in countless ways.
+
+I would also like to express a special and profound gratitude to my mother, who played an invaluable role in shaping my journey of knowledge and well-being. She shared her wisdom long before I embarked on my own research. Her nurturing guidance and unwavering support have been a foundation upon which I've built my quest for understanding. Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for instilling in me the importance of seeking knowledge and embracing the treasures of herbal medicine.
+
+Gratitude, a profound acknowledgement of the blessings within our lives, serves as an essential element in the ongoing refinement of our routines and protocols. Now, as we delve into the examination of our current state, let gratitude be our steadfast companion on this journey.
+
+
+
+<n2>Visualisation</n2>
+### Goals
+
+Visualise having already achieved your long-term goals. Create a vision board, and add a number and label to each item. Split the board into long-term long-term goals and short-term long-term goals, ideally 12 months ahead.
+
+- **Occupation.** Eye surgeon. Businessman. Father.
+- **Relationships.** Great relationship with parents. A loyal brotherhood and a large diverse network of skilled individuals. Only female friends that I consider close family. A devoted, loyal, loving partner.
+- **Possessions.** A minimal ultramodern house with a beautiful scenic view. A few supercars. 
+
+Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Visualise being successful with it.
+
+**Research:** visualise ideal self, embodiment.
+
+
+
+<n2>Core Values</n2>
+### Principles
+
+
 
 <n2>Motivation</n2>
 ### You Can Do This
