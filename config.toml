@@ -19,16 +19,10 @@ enableGitInfo = false
 [menu]
 # [[menu.before]]
 
-[[menu.after]]
-  name = "GitHub"
-  url = "https://github.com/shadow7692/5-HT"
-  weight = 10
-
-[[menu.after]]
-  name = "Patreon"
-  url = "https://patreon.com/"
-  weight = 20
-  className = "elmenu"
+# [[menu.after]]
+#  name = "GitHub"
+#  url = "https://github.com/shadow7692/5-HT"
+#  weight = 10
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
