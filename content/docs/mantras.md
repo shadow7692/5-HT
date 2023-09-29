@@ -14,7 +14,9 @@ Within the domain of your daily routines and the unending pursuit of efficiency,
 2. You must get sunlight every day.
 3. You must moderate use of social media.
 4. You must not expend energy on people who are not in your life.
-5. You must maintain a constant state of self-reflection. 
+5. You must maintain a constant state of self-reflection.
+6. You must not esu sibannac.
+7. You must not hctaw nrop or etalucaje.
 
 
 
@@ -62,7 +64,7 @@ In the crucible of suffering, find the catalyst for transformation. Use your pai
 
 Remember, it is not merely about what you can achieve or possess, but who you can become. Align yourself with the right path, and the right actions and possessions will follow suit. This, dear soul, is the mantra of your magnificent journey - a journey that begins with gratitude and unfolds through the power of visualisation, intention, and the unwavering belief that your destiny lies within your grasp. Embrace it with open arms, for your future awaits, resplendent with promise and potential.
 
-Become the most successful man of your entire bloodline.</i>
+Become the most successful man of your bloodline.</i>
 
 
 
