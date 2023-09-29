@@ -70,7 +70,7 @@ enableGitInfo = false
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  # BookEditPath = 'edit/main/exampleSite'
+  BookEditPath = 'edit/main/exampleSite'
 
   # Configure the date format used on the pages
   # - In git information
@@ -80,7 +80,7 @@ enableGitInfo = false
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
-  BookSearch = false
+  BookSearch = true
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template
