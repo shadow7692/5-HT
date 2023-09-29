@@ -21,6 +21,14 @@ body {
   }
 }
 
+.inline-svg {
+  display: inline-block;
+  height: 1.15rem;
+  width: 1.15rem;
+  top: 0.15rem;
+  position: relative;
+}
+
 elmenu {
   color: #aaaaaa !important;
 }
@@ -36,7 +44,6 @@ n3 {
   font-weight: bold;
   font-family: 'GentiumPlus';
 }
-
 
 n2 {
   padding: 0px;
