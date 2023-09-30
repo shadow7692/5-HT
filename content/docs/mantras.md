@@ -40,7 +40,7 @@ Visualise having already achieved your long-term goals. Create a vision board, a
 
 Long-term goals: (1) Occupational goals such as eye surgeon, businessman and father. (2) Relationship goals such as a great relationship with parents, a loyal brotherhood and a large diverse network of skilled individuals, only female friends that I consider close family, and a devoted, loyal, loving partner. (3) Material goals such as a minimal ultramodern house with a beautiful scenic view, and a few supercars.
 
-Short-term goals: (1) Achieve high marks, above 70%, in FFP exams. (2) Attain research positions and publications in the field of ophthalmology. (3) Build muscle and lose body fat.
+Short-term goals: (1) Achieve high marks, above 70%, in FFP exams. (2) Attain research positions and publications in the field of ophthalmology. (3) Build an aesthetic body. (4) Improve daily health and nutrition. (5) Create a stream of income.
 
 Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Visualise being successful with it.
 
@@ -49,10 +49,10 @@ Visualise yourself doing actions that will help you move closer towards these go
 <n2>Core Values</n2>
 ### Principles
 
+My ultimate goal and life purpose is to provide my skills and knowledge to people, for free.
 
-
-<n2>Motivation</n2>
-### You Can Do This
+<n2>Become The Best</n2>
+### Motivation
 
 <i>In the grand tapestry of life, gratitude reigns as our constant companion, a beacon of light guiding us through the labyrinth of challenges and aspirations. It is through gratitude that we uncover the hidden treasures strewn across our journey, enriching the very essence of our existence. 
 
