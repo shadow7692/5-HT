@@ -14,6 +14,7 @@ Within the domain of your daily routines and the unending pursuit of efficiency,
 
 > *"It's never about not falling off the horse, it's about getting back on the horse faster." - Vinh Giang*
 
+The following represent the current guidelines and limitations.
 1. Have 6-8 hours sleep every night.
 2. Obtain sunlight every day.
 3. Moderate use of social media.
@@ -26,11 +27,11 @@ Within the domain of your daily routines and the unending pursuit of efficiency,
 <n2>Thankfulness</n2>
 ### Gratitude
 
-> *"When eating fruit, remember the one who planted the tree." - Unknown*
-
 In the spirit of gratitude, I would like to extend my heartfelt thanks to individuals who have greatly inspired and contributed to my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew, Andrew & Tristan Tate, Vinh Giang*. I am deeply appreciative of the wisdom and inspiration you have all shared, which have enriched my understanding and perspective in countless ways.
 
 I would also like to express a special and profound gratitude to my mother, who played an invaluable role in shaping my journey of knowledge and well-being. She shared her wisdom long before I embarked on my own research. Her nurturing guidance and unwavering support have been a foundation upon which I've built my quest for understanding. Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for instilling in me the importance of seeking knowledge and embracing the treasures of herbal medicine. The companionship of my dear friends and loving siblings has been a constant source of joy, encouragement, and strength throughout the chapters of my life.
+
+> *"When eating fruit, remember the one who planted the tree." - Unknown*
 
 Being in good health is a privilege that often goes unnoticed until it's compromised. I'm profoundly thankful for the vitality that allows me to embrace each day with enthusiasm and to explore the wonders of this world. I'm grateful for the beauty of nature that surrounds us, for the moments of serenity found in a gentle breeze or the vibrant hues of a sunset.
 
