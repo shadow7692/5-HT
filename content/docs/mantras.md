@@ -52,8 +52,6 @@ Short-term goals: (1) Achieve high marks, above 70%, in FFP exams. (2) Attain re
 
 Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Visualise being successful with it.
 
-[//]: # (   To research: visualise ideal self, embodiment.   )
-
 <n2>Core Values</n2>
 ### Principles
 

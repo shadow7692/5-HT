@@ -48,7 +48,7 @@ Wear fresh undergarments and socks on a daily basis. Launder pillowcases and bed
 <n2>Staying Mobile</n2>
 ### Arthrology
 
-Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is an efficient routine targeting flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including the eye movements and diaphragmatic breathing.
+Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is the routine of choice to target flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including the eye movements and diaphragmatic breathing.
 
 
 
@@ -99,7 +99,7 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 The most beautiful sound a person can hear is their own name.
 
-**Ongoing research:** Body language, manifestation.
+**Ongoing research:** Body language.
 
 <n2>The Law Of Attraction</n2>
 ### Manifestation
@@ -115,6 +115,8 @@ The birth of suffering stems from when you keep reliving the pain and trauma. Th
 Letting Go: The Pathway of Surrender by David R. Hawkins. Think about a goal and observe what comes up. Accept the feeling of counter-intention, and ask for more resistance. Allow yourself to be flooded with resistance.
 
 What can I be/become > What can I do > What can I have. Become the right self and you will do the right things and have the right things.
+
+When conducting tasks, think how the ideal self would do it. When stuck making decisions, think what the ideal self would do. Who you pretend to be is who you'll become.
 
 **Ongoing research:** Body language, manifestation.
 
