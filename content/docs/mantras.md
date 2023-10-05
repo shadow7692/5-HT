@@ -42,11 +42,13 @@ Let gratitude be the steadfast companion on this journey.
 <n2>Visualisation</n2>
 ### Goals
 
-Visualise having already achieved your long-term goals. Create a vision board, and add a number and label to each item. Split the board into long-term long-term goals and short-term long-term goals, ideally 12 months ahead.
+Visualise having already achieved your long-term goals. Divide them into long-term long-term goals and short-term long-term goals, ideally 12 months ahead.
 
 Long-term goals: (1) Occupational goals such as eye surgeon, businessman and father. (2) Relationship goals such as a great relationship with parents, a loyal brotherhood and a large diverse network of skilled individuals, only female friends that I consider close family, and a devoted, loyal, loving partner. (3) Material goals such as a minimal ultramodern house with a beautiful scenic view, and a few supercars.
 
 Short-term goals: (1) Achieve high marks, above 70%, in FFP exams. (2) Attain research positions and publications in the field of ophthalmology. (3) Build an aesthetic body. (4) Improve daily health and nutrition. (5) Create a stream of income.
+
+> *"What you think, you become. What you feel, you attract. What you imagine, you create." - Buddha*
 
 Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Visualise being successful with it.
 
