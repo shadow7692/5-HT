@@ -55,25 +55,7 @@ Visualise yourself doing actions that will help you move closer towards these go
 <n2>Core Values</n2>
 ### Principles
 
-**Compassion.** Embrace a profound sense of sympathy and sorrow for those facing adversity, coupled with a powerful determination to ease their suffering. Extend genuine acts of generosity and kindess to those around you.
-
-**Integrity.** Uphold unwavering honesty and moral principles in every action.
-
-**Respect.** Treat others with consideration and esteem, valuing their perspectives and boundaries.
-
-**Curiosity.** Foster an insatiable thirst for knowledge and understanding, constantly seeking answers.
-
-**Discipline.** Cultivate a strong sense of self-control and determination in your pursuits. Fulfil your responsibilities with diligence and a sense of obligation.
-
-**Patience.** Practice calm endurance and tolerance in the face of challenges and delays.
-
-**Playfulness.** Infuse your activities with a lighthearted and joyful spirit, embracing fun and spontaneity.
-
-**Self-worth.** Recognise and nurture your inherent value and worth as an individual.
-
-**Success.** Strive for achievement and personal growth with unwavering dedication.
-
-**Reflection.** Engage in introspection and contemplation to gain insight and wisdom from your experiences.
+**Compassion.** Embrace a profound sense of sympathy and sorrow for those facing adversity, coupled with a powerful determination to ease their suffering. Extend genuine acts of generosity and kindess to those around you. **Integrity.** Uphold unwavering honesty and moral principles in every action. **Respect.** Treat others with consideration and esteem, valuing their perspectives and boundaries. **Curiosity.** Foster an insatiable thirst for knowledge and understanding, constantly seeking answers. **Discipline.** Cultivate a strong sense of self-control and determination in your pursuits. Fulfil your responsibilities with diligence and a sense of obligation. **Patience.** Practice calm endurance and tolerance in the face of challenges and delays. **Playfulness.** Infuse your activities with a lighthearted and joyful spirit, embracing fun and spontaneity. **Self-worth.** Recognise and nurture your inherent value and worth as an individual. **Success.** Strive for achievement and personal growth with unwavering dedication. **Reflection.** Engage in introspection and contemplation to gain insight and wisdom from your experiences.
 
 <n2>Become The Best</n2>
 ### Motivation
