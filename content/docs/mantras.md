@@ -5,31 +5,36 @@ bookHidden: false
 weight: 1
 ---
 
+
+
 <n2>Rules & Constraints</n2>
 ### Regulating
 
-Within the domain of your daily routines and the unending pursuit of efficiency, it remains vital to keep in mind the existing rules and constraints concerning the various addictions and activities that deplete your time.
+Within the domain of your daily routines and the unending pursuit of efficiency, it remains vital to keep in mind the existing rules and constraints concerning the various addictions and activities that deplete your time. 
 
-1. You must have 6-8 hours sleep every night.
-2. You must get sunlight every day.
-3. You must moderate use of social media.
-4. You must not expend energy on people who are not in your life.
-5. You must maintain a constant state of self-reflection.
-6. You must not esu sibannac.
-7. You must not hctaw nrop or etalucaje.
+> *"It's never about not falling off the horse, it's about getting back on the horse faster." - Vinh Giang*
+
+1. Have 6-8 hours sleep every night.
+2. Obtain sunlight every day.
+3. Moderate use of social media.
+4. Do not self-pity.
+5. Maintain a constant state of self-reflection.
+6. Do not esu sibannac, hctaw nrop or etalucaje.
 
 
 
 <n2>Thankfulness</n2>
 ### Gratitude
 
-In the spirit of gratitude, I would like to extend my heartfelt thanks to individuals who have greatly inspired and contributed to my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew, Andrew Tate, Tristan Tate*. I am deeply appreciative of the wisdom and inspiration you have all shared, which have enriched my understanding and perspective in countless ways.
+> *"When eating fruit, remember the one who planted the tree." - Unknown*
+
+In the spirit of gratitude, I would like to extend my heartfelt thanks to individuals who have greatly inspired and contributed to my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew, Andrew & Tristan Tate, Vinh Giang*. I am deeply appreciative of the wisdom and inspiration you have all shared, which have enriched my understanding and perspective in countless ways.
 
 I would also like to express a special and profound gratitude to my mother, who played an invaluable role in shaping my journey of knowledge and well-being. She shared her wisdom long before I embarked on my own research. Her nurturing guidance and unwavering support have been a foundation upon which I've built my quest for understanding. Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for instilling in me the importance of seeking knowledge and embracing the treasures of herbal medicine. The companionship of my dear friends and loving siblings has been a constant source of joy, encouragement, and strength throughout the chapters of my life.
 
 Being in good health is a privilege that often goes unnoticed until it's compromised. I'm profoundly thankful for the vitality that allows me to embrace each day with enthusiasm and to explore the wonders of this world. I'm grateful for the beauty of nature that surrounds us, for the moments of serenity found in a gentle breeze or the vibrant hues of a sunset.
 
-Gratitude, a profound acknowledgement of the blessings within our lives, serves as an essential element in the ongoing refinement of our routines and protocols. Now, as we delve into the examination of our current state, let gratitude be our steadfast companion on this journey.
+Let gratitude be the steadfast companion on this journey.
 
 
 
@@ -44,7 +49,7 @@ Short-term goals: (1) Achieve high marks, above 70%, in FFP exams. (2) Attain re
 
 Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Visualise being successful with it.
 
-[//]: # (To research: visualise ideal self, embodiment.)
+[//]: # (   To research: visualise ideal self, embodiment.   )
 
 <n2>Core Values</n2>
 ### Principles
