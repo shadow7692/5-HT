@@ -46,12 +46,12 @@ Let gratitude be the steadfast companion on this journey.
 
 Visualise having already achieved your long-term goals. Divide them into long-term long-term goals and short-term long-term goals, ideally 12 months ahead.
 
-Long-term goals: 
+**Long-term goals:**
 1. Eye surgeon, businessman and lover.
 2. A loyal brotherhood, a devoted partner, great relationship with parents, female friends for emotional conversation, and a large diverse network of skilled individuals.
 3. Minimal ultramodern house and apartment with a beautiful view, and a few supercars. Looking fly.
 
-Short-term goals:
+**Short-term goals:**
 1. Achieve 80% in FFP exams. 
 3. Network with academic ophthalmologists.
 2. Attain research and publications in the field of ophthalmology.
