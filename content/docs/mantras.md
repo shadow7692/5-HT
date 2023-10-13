@@ -27,13 +27,15 @@ The following represent the current guidelines and limitations.
 <n2>Thankfulness</n2>
 ### Gratitude
 
-In the spirit of gratitude, I would like to extend my heartfelt thanks to individuals who have greatly inspired and contributed to my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew, Andrew & Tristan Tate, Vinh Giang*. I am deeply appreciative of the wisdom and inspiration you have all shared, which have enriched my understanding and perspective in countless ways.
-
-I would also like to express a special and profound gratitude to my mother, who played an invaluable role in shaping my journey of knowledge and well-being. She shared her wisdom long before I embarked on my own research. Her nurturing guidance and unwavering support have been a foundation upon which I've built my quest for understanding. Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for instilling in me the importance of seeking knowledge and embracing the treasures of herbal medicine. The companionship of my dear friends and loving siblings has been a constant source of joy, encouragement, and strength throughout the chapters of my life.
+I would like to extend my heartfelt thanks to individuals who have enriched my understanding and perspective throughout my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew, Andrew & Tristan Tate, Vinh Giang*. To those, I am deeply grateful.
 
 > *"When eating fruit, remember the one who planted the tree." - Unknown*
 
-Being in good health is a privilege that often goes unnoticed until it's compromised. I'm profoundly thankful for the vitality that allows me to embrace each day with enthusiasm and to explore the wonders of this world. I'm grateful for the beauty of nature that surrounds us, for the moments of serenity found in a gentle breeze or the vibrant hues of a sunset.
+Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for the invaluable role you played in shaping my journey of knowledge and well-being.
+
+My dear siblings and closest friends, are a constant source of joy, encouragement, and strength throughout the chapters of my life.
+
+I'm profoundly thankful for the vitality that allows me to embrace each day as a champion of the universe. I'm grateful for the moments of serenity found in a gentle breeze or the vibrant hues of a sunset.
 
 Let gratitude be the steadfast companion on this journey.
 
@@ -44,23 +46,42 @@ Let gratitude be the steadfast companion on this journey.
 
 Visualise having already achieved your long-term goals. Divide them into long-term long-term goals and short-term long-term goals, ideally 12 months ahead.
 
-Long-term goals: (1) Occupational goals such as eye surgeon, businessman and father. (2) Relationship goals such as a great relationship with parents, a loyal brotherhood and a large diverse network of skilled individuals, only female friends that I consider close family, and a devoted, loyal, loving partner. (3) Material goals such as a minimal ultramodern house with a beautiful scenic view, and a few supercars.
+Long-term goals: 
+1. Eye surgeon, businessman and lover.
+2. A loyal brotherhood, a devoted partner, great relationship with parents, female friends for emotional conversation, and a large diverse network of skilled individuals.
+3. Minimal ultramodern house and apartment with a beautiful view, and a few supercars. Looking fly.
 
-Short-term goals: (1) Achieve high marks, above 70%, in FFP exams. (2) Attain research positions and publications in the field of ophthalmology. (3) Build an aesthetic body. (4) Improve daily health and nutrition. (5) Create a stream of income.
+Short-term goals:
+1. Achieve 80% in FFP exams. 
+3. Network with academic ophthalmologists.
+2. Attain research and publications in the field of ophthalmology.
+4. Build an aesthetic body.
+5. Eat a minimum of one fruit per day.
+6. Tap into a stream of income.
+7. Let her fall in love again.
 
 > *"What you think, you become. What you feel, you attract. What you imagine, you create." - Buddha*
 
-Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Visualise being successful with it.
+Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Most importantly, visualise being successful with it.
 
 <n2>Core Values</n2>
 ### Principles
 
-**Compassion.** Embrace a profound sense of sympathy and sorrow for those facing adversity, coupled with a powerful determination to ease their suffering. Extend genuine acts of generosity and kindess to those around you. **Integrity.** Uphold unwavering honesty and moral principles in every action. **Respect.** Treat others with consideration and esteem, valuing their perspectives and boundaries. **Curiosity.** Foster an insatiable thirst for knowledge and understanding, constantly seeking answers. **Discipline.** Cultivate a strong sense of self-control and determination in your pursuits. Fulfil your responsibilities with diligence and a sense of obligation. **Patience.** Practice calm endurance and tolerance in the face of challenges and delays. **Playfulness.** Infuse your activities with a lighthearted and joyful spirit, embracing fun and spontaneity. **Self-worth.** Recognise and nurture your inherent value and worth as an individual. **Success.** Strive for achievement and personal growth with unwavering dedication. **Reflection.** Engage in introspection and contemplation to gain insight and wisdom from your experiences.
+- **Compassion.** Embrace a profound sense of sympathy and sorrow for those facing adversity, coupled with a powerful determination to ease their suffering. Extend genuine acts of generosity and kindess to those around you. 
+- **Integrity.** Uphold unwavering honesty and moral principles in every action. Let your word be your bond.
+- **Respect.** Treat others with consideration and esteem, valuing their perspectives and boundaries. 
+- **Curiosity.** Foster an insatiable thirst for knowledge and understanding, constantly seeking answers. 
+- **Discipline.** Cultivate a strong sense of self-control and determination in your pursuits. Fulfil your responsibilities with diligence and a sense of obligation. 
+- **Patience.** Practice calm endurance and tolerance in the face of challenges and delays. 
+- **Playfulness.** Infuse your activities with a lighthearted and joyful spirit, embracing fun and spontaneity. 
+- **Self-worth.** Recognise and nurture your inherent value and worth as an individual. 
+- **Success.** Strive for achievement and personal growth with unwavering dedication. 
+- **Reflection.** Engage in introspection and contemplation to gain insight and wisdom from your experiences.
 
 <n2>Become The Best</n2>
 ### Motivation
 
-<i>In the grand tapestry of life, gratitude reigns as our constant companion, a beacon of light guiding us through the labyrinth of challenges and aspirations. It is through gratitude that we uncover the hidden treasures strewn across our journey, enriching the very essence of our existence. 
+> <i>In the grand tapestry of life, gratitude reigns as our constant companion, a beacon of light guiding us through the labyrinth of challenges and aspirations. It is through gratitude that we uncover the hidden treasures strewn across our journey, enriching the very essence of our existence. 
 
 Visualisation, a potent tool for sculpting our future, invites us to transcend the boundaries of our current reality. Picture, if you will, the attainment of your loftiest aspirations, each goal meticulously etched on the canvas of your mind. With unwavering resolve, forge a path towards these ambitions, for in visualisation, the seeds of success are sown. Envision the multifaceted facets of your life. Aspire to be not just an occupation, but an eye surgeon, a visionary businessman, a nurturing father. Cultivate not mere relationships, but deep connections with your parents, a loyal brotherhood, and a diverse network of talented souls.
 
