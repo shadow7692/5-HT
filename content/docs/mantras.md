@@ -18,9 +18,8 @@ The following represent the current guidelines and limitations.
 1. Have 6-8 hours sleep every night.
 2. Obtain sunlight every day.
 3. Moderate use of social media.
-4. Do not self-pity.
 5. Maintain a constant state of self-reflection.
-6. Do not esu sibannac, hctaw nrop or etalucaje.
+6. Do not hctaw nrop and avoid gnitulacaje within 6 days of your last noitalucaje.
 
 
 
