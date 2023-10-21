@@ -15,11 +15,11 @@ Within the domain of your daily routines and the unending pursuit of efficiency,
 > *"It's never about not falling off the horse, it's about getting back on the horse faster." - Vinh Giang*
 
 The following represent the current guidelines and limitations.
-1. Have 6-8 hours sleep every night.
-2. Obtain sunlight every day.
-3. Moderate use of social media.
-5. Maintain a constant state of self-reflection.
-6. Do not hctaw nrop and avoid gnitulacaje within 6 days of your last noitalucaje.
+1. Obtain sunlight every day.
+2. Moderate use of social media.
+3. Maintain a constant state of self-reflection and gratitude.
+4. Do not hctaw nrop and avoid gnitulacaje within a 6 day period.
+5. Have 6-8 hours sleep every night.
 
 
 
@@ -43,15 +43,15 @@ Let gratitude be the steadfast companion on this journey.
 <n2>Visualisation</n2>
 ### Goals
 
-Visualise having already achieved your long-term goals. Divide them into long-term long-term goals and short-term long-term goals, ideally 12 months ahead.
+Visualise having already achieved your long-term goals. Divide them into long-term goals and short-term goals, ideally 12 months ahead.
 
 **Long-term goals:**
-1. Eye surgeon, businessman and lover.
-2. A loyal brotherhood, a devoted partner, great relationship with parents, female friends for emotional conversation, and a large diverse network of skilled individuals.
+1. Eye surgeon, businessman, mentor and lover.
+2. A loyal brotherhood, a devoted partner, a great relationship with my parents, emotionally intelligent female friends, and a large diverse network of skilled individuals.
 3. Minimal ultramodern house and apartment with a beautiful view, and a few supercars. Looking fly.
 
 **Short-term goals:**
-1. Achieve 80% in FFP exams. 
+1. Achieve 80% in FFP exams.
 3. Network with academic ophthalmologists.
 2. Attain research and publications in the field of ophthalmology.
 4. Build an aesthetic body.

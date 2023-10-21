@@ -35,28 +35,27 @@ Salt gargling, a practice rooted in traditional medicine, involves rinsing the m
 <n2>Finding The Perfect Skincare Routine</n2>
 ### Dermatology
 
+Moisturise daily and if incorporating retinol every other day into the skincare regimen, select moisturiser with SPF for optimal protection.
+
 Shower daily, utilising soap to cleanse the entire body beyond mere hand and armpit gestures. Pay heed to the often-neglected zones: the nape, the ears, the feet, the ankles, and the back. Additionally, retract the foreskin and cleanse with the thumb, and spread the gluteal muscles apart and cleanse between. Use a scalp scrubber with shampoo and allow conditioner to sit for a few minutes before rinsing off. Cleanse hands thoroughly after using the toilet. Take a cold shower and wash hands after engaging in physical activity at the gym.
 
 Maintain tidiness with a nose hair trimmer and use tweezers to groom eyebrows. Paying close attention to the area just beneath the mandibular angle when shaving. Remove chest hair, tend to axillary hair with trimming, and manage pubic hair by shaving the testes and shaft, trimming the pubic region, and plucking thigh hair as needed. Ensure nails remain consistently trimmed.
-
-Moisturise daily and if incorporating retinol every other day into the skincare regimen, select moisturiser with SPF for optimal protection.
-
-Wear fresh undergarments and socks on a daily basis. Launder pillowcases and bedsheets regularly.
 
 
 
 <n2>Staying Mobile</n2>
 ### Arthrology
 
-Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is the routine of choice to target flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including the eye movements and diaphragmatic breathing.
+Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is the routine of choice to target flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including eye movements and diaphragmatic breathing.
 
 
-
-<draft>
 
 **Everything Beyond This Point Is Experimental And Subject To Heavy Change.**
 
 ***Future research topics:*** *tea tree oil, craniology for mewing, electrophysiology, kinesiology for combat training, parapsychology, psychology, face yoga, gua sha, sugar, posture, african wash net, chandra namaksar.*
+
+<draft>
+
 
 <n2>Defining Beauty</n2>
 ### Physiognomy
