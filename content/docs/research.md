@@ -98,7 +98,15 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 The most beautiful sound a person can hear is their own name.
 
-**Ongoing research:** Body language.
+<n2>Reading Body Language</n2>
+### Kinesiology
+
+Here is the Anki deck I created and used to memorise behaviours.
+
+<n2>Lucid Dreaming</n2>
+### Oneirology
+
+SAT and DILD hooks.
 
 <n2>The Law Of Attraction</n2>
 ### Manifestation
