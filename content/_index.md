@@ -44,7 +44,6 @@ Visualise having already achieved your long-term goals. Then, visualise yourself
 7. Let her fall in love again.
 
 
-
 <n2>Core Values</n2>
 ### Principles
 

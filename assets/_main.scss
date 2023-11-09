@@ -36,9 +36,7 @@ tq {
   margin: 20px 0px 0px;
   font-size: 20px;
   font-weight: bold;
-  font-style: italic;
   font-family: 'GentiumPlus';
-  color: #dddddd
 }
 
 au {
@@ -47,8 +45,9 @@ au {
   margin: -70px 0px 10px; 
   font-size: 12px;
   font-weight: bold;
-  text-transform: uppercase;
-  font-family: 'SourceSans3';
+  font-style: italic;
+  font-family: 'GentiumPlus';
+  color: #aaaaaa
 }
 
 draft {
