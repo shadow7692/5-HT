@@ -7,7 +7,7 @@ weight: 1
 
 <n2>The Blueprint</n2><br>
 
-> "It's never about not falling off the horse, it's about getting back on the horse faster." - Vinh Giang
+<quote>"It's never about not falling off the horse, it's about getting back on the horse faster." - Vinh Giang</quote>
 
 Within the domain of my daily routines and the unending pursuit of efficiency, it remains vital to keep in mind the existing rules and constraints concerning the various addictions and activities that deplete my time. The following represent my current guidelines and limitations.
 1. Obtain sunlight every day.
@@ -16,13 +16,13 @@ Within the domain of my daily routines and the unending pursuit of efficiency, i
 4. Do not hctaw nrop and avoid gnitulacaje within a 6 day period.
 5. Have 6-8 hours sleep every night.
 
-> "When eating fruit, remember the one who planted the tree." - Unknown
+<quote>"When eating fruit, remember the one who planted the tree." - Unknown</quote>
 
 I would like to extend my heartfelt thanks to individuals who have enriched my understanding and perspective throughout my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew, Andrew & Tristan Tate, Vinh Giang*. To those, I am deeply grateful.
 
 Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for the invaluable role you played in shaping my journey of knowledge and well-being. My dear siblings and closest friends, are a constant source of joy, encouragement, and strength throughout the chapters of my life. I'm profoundly thankful for the vitality that allows me to embrace each day as a champion of the universe. I'm grateful for the moments of serenity found in a gentle breeze or the vibrant hues of a sunset. Let gratitude be the steadfast companion on this journey.
 
-> "What you think, you become. What you feel, you attract. What you imagine, you create." - Buddha
+<quote>"What you think, you become. What you feel, you attract. What you imagine, you create." - Buddha</quote>
 
 Visualise having already achieved your long-term goals. Then, visualise yourself performing actions that will move you closer towards these visions. If you don't know what actions to take, visualise yourself finding out. Most importantly, visualise being successful with it.
 
@@ -55,6 +55,7 @@ Visualise having already achieved your long-term goals. Then, visualise yourself
 - **Success.** Strive for achievement and personal growth with unwavering dedication. 
 - **Reflection.** Engage in introspection and contemplation to gain insight and wisdom from your experiences.
 
+
 <n2>Become The Best</n2>
 ### Motivation
 
@@ -63,7 +64,7 @@ Visualise having already achieved your long-term goals. Then, visualise yourself
 <n2>The Blueprint</n2>
 ### Protocol
 
-In the realm of daily life and the ever-changing quest for efficiency, it’s crucial to maintain a routine. This routine is a dynamic entity, always updating as we uncover new information and make fresh discoveries. As I pursue this knowledge, I have created the most optimal sequences for each of the relevant aspects of my daily routine called *protocols*. Now, let’s take a look at its current state.
+In the quest for efficiency, it’s crucial to maintain a dynamic routine. As I pursue new knowledge, I have created the most optimal sequences for each of the relevant aspects of my daily routine called *protocols*. Now, let’s take a look at its current state.
 
 {{<figure class="figure" src="/protocol_230928.png" caption="Last updated 21 September, 2023.">}}
 
