@@ -31,6 +31,25 @@ body {
   position: relative;
 }
 
+tq {
+  padding: 0px;
+  margin: 20px 0px 0px;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 'GentiumPlus';
+  display: inline-block;
+}
+
+au {
+  padding-top: 50px;
+  margin-top: -70px;
+  margin: -70px 0px 10px; 
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'SourceSans3';
+}
+
 draft {
   color: #cccccc !important;
 }

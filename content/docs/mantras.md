@@ -1,7 +1,7 @@
 ---
 title: "Mantras"
 date: 2023-09-17T15:48:17+01:00
-bookHidden: false
+bookHidden: true
 weight: 1
 ---
 
