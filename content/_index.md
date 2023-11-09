@@ -5,7 +5,10 @@ bookHidden: false
 weight: 1
 ---
 
-<n2>Blueprint</n2><br>
+<n2>Blueprint</n2>
+### Daily Protocol
+
+Use your pain and trauma as stepping stones towards resolute decisions. Explore the depths of your desires and confront the resistance that surfaces. Embrace it, for it is the crucible in which your true self is forged. Remember, it is not merely about what you can achieve or possess, but who you can become. Align yourself with the right path, and the right actions and possessions will follow suit. This, dear soul, is the mantra of your magnificent journey. Embrace it with open arms, for your future awaits, resplendent with promise and potential. Become the most successful man of your bloodline.
 
 <quote>It's never about not falling off the horse, it's about getting back on the horse faster.</quote>
 
@@ -39,8 +42,6 @@ Visualise having already achieved your long-term goals. Then, visualise yourself
 5. Eat a minimum of one fruit per day.
 6. Tap into a stream of income.
 7. Let her fall in love again.
-
-> <i>Use your pain and trauma as stepping stones towards resolute decisions. Explore the depths of your desires and confront the resistance that surfaces. Embrace it, for it is the crucible in which your true self is forged. Remember, it is not merely about what you can achieve or possess, but who you can become. Align yourself with the right path, and the right actions and possessions will follow suit. This, dear soul, is the mantra of your magnificent journey. Embrace it with open arms, for your future awaits, resplendent with promise and potential. Become the most successful man of your bloodline.</i>
 
 In the quest for efficiency, it’s crucial to maintain a dynamic routine. As I pursue new knowledge, I have created the most optimal sequences for each of the relevant aspects of my daily routine called *protocols*. Now, let’s take a look at its current state.
 
