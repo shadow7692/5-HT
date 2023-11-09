@@ -24,9 +24,8 @@ I would like to extend my heartfelt thanks to individuals who have enriched my u
 Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for the invaluable role you played in shaping my journey of knowledge and well-being. My dear siblings and closest friends, are a constant source of joy, encouragement, and strength throughout the chapters of my life. I'm profoundly thankful for the vitality that allows me to embrace each day as a champion of the universe. I'm grateful for the moments of serenity found in a gentle breeze or the vibrant hues of a sunset. Let gratitude be the steadfast companion on this journey.
 
 
-
-<n2>Visualisation</n2>
-### Goals
+<tq>What you think, you become. What you feel, you attract. What you imagine, you create.</tq>
+<au>Buddha</au>
 
 Visualise having already achieved your long-term goals. Divide them into long-term goals and short-term goals, ideally 12 months ahead.
 
@@ -43,8 +42,6 @@ Visualise having already achieved your long-term goals. Divide them into long-te
 5. Eat a minimum of one fruit per day.
 6. Tap into a stream of income.
 7. Let her fall in love again.
-
-> *"What you think, you become. What you feel, you attract. What you imagine, you create." - Buddha*
 
 Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Most importantly, visualise being successful with it.
 
