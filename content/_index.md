@@ -5,7 +5,7 @@ bookHidden: false
 weight: 1
 ---
 
-<tq>It's never about not falling off the horse, it's about getting back on the horse faster.</tq>
+<tq>It's never about not falling off the horse, it's about getting back on the horse faster.</tq><br>
 <au>Vinh Giang</au>
 
 Within the domain of my daily routines and the unending pursuit of efficiency, it remains vital to keep in mind the existing rules and constraints concerning the various addictions and activities that deplete my time. The following represent my current guidelines and limitations.
@@ -16,7 +16,7 @@ Within the domain of my daily routines and the unending pursuit of efficiency, i
 5. Have 6-8 hours sleep every night.
 
 
-<tq>When eating fruit, remember the one who planted the tree.</tq>
+<tq>When eating fruit, remember the one who planted the tree.</tq><br>
 <au>Unknown</au>
 
 I would like to extend my heartfelt thanks to individuals who have enriched my understanding and perspective throughout my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew, Andrew & Tristan Tate, Vinh Giang*. To those, I am deeply grateful.
@@ -24,10 +24,10 @@ I would like to extend my heartfelt thanks to individuals who have enriched my u
 Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for the invaluable role you played in shaping my journey of knowledge and well-being. My dear siblings and closest friends, are a constant source of joy, encouragement, and strength throughout the chapters of my life. I'm profoundly thankful for the vitality that allows me to embrace each day as a champion of the universe. I'm grateful for the moments of serenity found in a gentle breeze or the vibrant hues of a sunset. Let gratitude be the steadfast companion on this journey.
 
 
-<tq>What you think, you become. What you feel, you attract. What you imagine, you create.</tq>
+<tq>What you think, you become. What you feel, you attract. What you imagine, you create.</tq><br>
 <au>Buddha</au>
 
-Visualise having already achieved your long-term goals. Divide them into long-term goals and short-term goals, ideally 12 months ahead.
+Visualise having already achieved your long-term goals. Then, visualise yourself performing actions that will move you closer towards these visions. If you don't know what actions to take, visualise yourself finding out. Most importantly, visualise being successful with it.
 
 **Long-term goals:**
 1. Eye surgeon, businessman, mentor and lover.
@@ -43,7 +43,7 @@ Visualise having already achieved your long-term goals. Divide them into long-te
 6. Tap into a stream of income.
 7. Let her fall in love again.
 
-Visualise yourself doing actions that will help you move closer towards these goals. If you don't know what actions to take, visualise yourself finding out. Most importantly, visualise being successful with it.
+
 
 <n2>Core Values</n2>
 ### Principles
