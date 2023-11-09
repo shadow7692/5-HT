@@ -1,11 +1,11 @@
 ---
-title: "The Blueprint"
+title: "Blueprint"
 date: 2023-09-17T15:48:17+01:00
 bookHidden: false
 weight: 1
 ---
 
-<n2>The Blueprint</n2><br>
+<n2>Blueprint</n2><br>
 
 <quote>It's never about not falling off the horse, it's about getting back on the horse faster.</quote>
 

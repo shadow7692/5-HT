@@ -20,7 +20,7 @@ enableGitInfo = false
 # [[menu.before]]
 
 [[menu.after]]
-  name = "Protocol"
+  name = "Blueprint"
   url = "https://main--stirring-maamoul-7c87a9.netlify.app/"
   weight = 10
 
