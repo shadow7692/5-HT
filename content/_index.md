@@ -5,8 +5,9 @@ bookHidden: false
 weight: 1
 ---
 
-<n2>1</n2><br>
-<au>"It's never about not falling off the horse, it's about getting back on the horse faster." - Vinh Giang</au>
+<n2>The Blueprint</n2><br>
+
+> "It's never about not falling off the horse, it's about getting back on the horse faster." - Vinh Giang
 
 Within the domain of my daily routines and the unending pursuit of efficiency, it remains vital to keep in mind the existing rules and constraints concerning the various addictions and activities that deplete my time. The following represent my current guidelines and limitations.
 1. Obtain sunlight every day.
@@ -15,16 +16,13 @@ Within the domain of my daily routines and the unending pursuit of efficiency, i
 4. Do not hctaw nrop and avoid gnitulacaje within a 6 day period.
 5. Have 6-8 hours sleep every night.
 
-<n2>2</n2><br>
-<au>"When eating fruit, remember the one who planted the tree." - Unknown</au>
+> "When eating fruit, remember the one who planted the tree." - Unknown
 
 I would like to extend my heartfelt thanks to individuals who have enriched my understanding and perspective throughout my journey. *Andrew Huberman, Lex Fridman, Bryan Johnson, Quazi Johir, Mike Mew, Andrew & Tristan Tate, Vinh Giang*. To those, I am deeply grateful.
 
 Mum, your love and teachings have been an enduring source of inspiration, and I'm immensely grateful for the wisdom you've imparted. Thank you for the invaluable role you played in shaping my journey of knowledge and well-being. My dear siblings and closest friends, are a constant source of joy, encouragement, and strength throughout the chapters of my life. I'm profoundly thankful for the vitality that allows me to embrace each day as a champion of the universe. I'm grateful for the moments of serenity found in a gentle breeze or the vibrant hues of a sunset. Let gratitude be the steadfast companion on this journey.
 
-
-<n2>3</n2><br>
-<au>"What you think, you become. What you feel, you attract. What you imagine, you create." - Buddha</au>
+> "What you think, you become. What you feel, you attract. What you imagine, you create." - Buddha
 
 Visualise having already achieved your long-term goals. Then, visualise yourself performing actions that will move you closer towards these visions. If you don't know what actions to take, visualise yourself finding out. Most importantly, visualise being successful with it.
 
