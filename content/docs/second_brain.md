@@ -17,7 +17,7 @@ Let it be known that this work does not possess all the answers. Rather, it humb
 
 
 
-<n2>Optimising Oral Health</n2>
+<n2>How To Have Optimal Oral Health</n2>
 ### Dentistry
 
 Mechanical plaque control, achieved by creating friction between toothbrush bristles or Miswak plant fibers and the tooth surface, involves cleaning teeth with an electric toothbrush twice daily and using *Salvadora persica* sticks after every meal or snack. Toothpaste containing CoQ10 and Miswak contributes to chemical plaque control through the presence of calcium and fluoride ions, promoting the remineralization of tooth structure and exhibiting mild antibacterial properties.
@@ -32,7 +32,7 @@ Salt gargling, a practice rooted in traditional medicine, involves rinsing the m
 
 
 
-<n2>Finding The Perfect Skincare Routine</n2>
+<n2>How To Implement The Perfect Skincare Routine</n2>
 ### Dermatology
 
 Moisturise daily and if incorporating retinol every other day into the skincare regimen, select moisturiser with SPF for optimal protection.
@@ -43,7 +43,7 @@ Maintain tidiness with a nose hair trimmer and use tweezers to groom eyebrows. P
 
 
 
-<n2>Staying Mobile</n2>
+<n2>How To Not Get Arthritis</n2>
 ### Arthrology
 
 Maintaining joint mobility and muscle flexibility is crucial for prophylaxis against age-related orthopaedic conditions. The process of ageing involves cartilage and synovial fluid degradation, and reduced muscle elasticity, leading to issues such as osteoarthritis. *Surya Namaskar* is the routine of choice to target flexibility, strength, and balance, with origins traced back to the Vedic period in India. Each of the twelve poses in the cycle must be mastered to perfection to achieve optimal benefits, including eye movements and diaphragmatic breathing.
@@ -57,7 +57,7 @@ Maintaining joint mobility and muscle flexibility is crucial for prophylaxis aga
 <draft>
 
 
-<n2>Defining Beauty</n2>
+<n2>How To Sculpt A Beautiful Face</n2>
 ### Physiognomy
 
 What are the components of genetically gifted individuals?
@@ -65,12 +65,12 @@ What are the components of genetically gifted individuals?
 Include mewing.
 
 
-<n2>Building An Aesthetic Body</n2>
+<n2>How To Build An Aesthetic Body</n2>
 ### Myology
 
 **Ongoing research:** Weightlifting, long-distance running, boxing.  
 
-<n2>Mastering Sexual Endurance</n2>
+<n2>How To Master Sexual Endurance</n2>
 ### Sexology
 
 Mastery over sexual stamina requires proficiency in the following four domains: (1) achieving a balance in the power and tone of the pelvic floor muscles, (2) utilising diaphragmatic breathing, (3) developing a 'calm arousal' state of mind, and (4) conditioning the body through the practice of edging.
@@ -88,27 +88,27 @@ Depending on how imbalanced the pelvic floor already is, exclusively performing 
 
 **Ongoing research:** diaphragmatic breathing.
 
-<n2>Eating To Nourish</n2>
+<n2>How To Eat Correctly</n2>
 ### Sitiology
 
 **Ongoing research:** Organic foods, cast iron, microwave, spring water, organic coconut water, cistanche, shilajit, apricot seeds, chlorella and spirulina.  
 
-<n2>Understanding People</n2>
+<n2>How To Understand People</n2>
 ### Psychosociology
 
 The most beautiful sound a person can hear is their own name.
 
-<n2>Reading Body Language</n2>
+<n2>How To Read Body Language</n2>
 ### Kinesiology
 
 Here is the Anki deck I created and used to memorise behaviours.
 
-<n2>Lucid Dreaming</n2>
+<n2>How To Lucid Dream</n2>
 ### Oneirology
 
 SAT and DILD hooks.
 
-<n2>The Law Of Attraction</n2>
+<n2>How To Use The Law Of Attraction</n2>
 ### Manifestation
 
 The Vedas say it is better to be a vegetarian (but not a rule). Avoid tortured meat because the negative emotion and negative energy will transfer. 
