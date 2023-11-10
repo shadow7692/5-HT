@@ -6,7 +6,7 @@ weight: 1
 ---
 
 <n2>Blueprint</n2>
-### Daily Protocol
+<n2a>Daily Protocol</n2a>
 
 Use your pain and trauma as stepping stones towards resolute decisions. Explore the depths of your desires and confront the resistance that surfaces. Embrace it, for it is the crucible in which your true self is forged. Remember, it is not merely about what you can achieve or possess, but who you can become. Align yourself with the right path, and the right actions and possessions will follow suit. This, dear soul, is the mantra of your magnificent journey. Embrace it with open arms, for your future awaits, resplendent with promise and potential. Become the most successful man of your bloodline.
 
