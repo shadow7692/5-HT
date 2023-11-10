@@ -6,7 +6,6 @@ weight: 3
 ---
 
 <n2>Understanding People</n2><br>
-<n2a>Chapter 3</n2a>
 
 ### Psychosociology
 

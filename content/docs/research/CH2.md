@@ -6,7 +6,6 @@ weight: 2
 ---
 
 <n2>Sculpting A Beautiful Body</n2><br>
-<n2a>Chapter 2</n2a>
 
 ### Arthrology
 
