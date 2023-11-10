@@ -5,8 +5,8 @@ BookToC: true
 weight: 2
 ---
 
-<n2>How To Have Optimal Oral Health</n2>
-### Dentistry
+<n2>Dentistry</n2>
+### How To Have Optimal Oral Health
 
 Mechanical plaque control, achieved by creating friction between toothbrush bristles or Miswak plant fibers and the tooth surface, involves cleaning teeth with an electric toothbrush twice daily and using *Salvadora persica* sticks after every meal or snack. Toothpaste containing CoQ10 and Miswak contributes to chemical plaque control through the presence of calcium and fluoride ions, promoting the remineralization of tooth structure and exhibiting mild antibacterial properties.
 

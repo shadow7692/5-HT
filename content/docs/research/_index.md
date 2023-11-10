@@ -1,5 +1,5 @@
 ---
-title: "Life Guide"
+title: "Research"
 bookCollapseSection: true
 ---
 

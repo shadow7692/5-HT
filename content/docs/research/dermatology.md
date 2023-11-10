@@ -5,8 +5,8 @@ BookToC: true
 weight: 2
 ---
 
-<n2>How To Implement The Perfect Skincare Routine</n2>
-### Dermatology
+<n2>Dermatology</n2>
+### How To Implement The Perfect Skincare Routine
 
 Moisturise daily and if incorporating retinol every other day into the skincare regimen, select moisturiser with SPF for optimal protection.
 
