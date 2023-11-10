@@ -27,3 +27,6 @@ Shower daily, utilising soap to cleanse the entire body beyond mere hand and arm
 
 Maintain tidiness with a nose hair trimmer and use tweezers to groom eyebrows. Paying close attention to the area just beneath the mandibular angle when shaving. Remove chest hair, tend to axillary hair with trimming, and manage pubic hair by shaving the testes and shaft, trimming the pubic region, and plucking thigh hair as needed. Ensure nails remain consistently trimmed.
 
+
+
+

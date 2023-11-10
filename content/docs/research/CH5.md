@@ -1,13 +1,13 @@
 ---
-title: "Mastering Sexual Performance"
+title: "Reading The Night Sky"
 date: 2023-09-17T15:48:17+01:00
 BookToC: true
-weight: 4
+weight: 5
 ---
 
-<n2>Mastering Sexual Performance</n2><br>
+<n2>Reading The Night Sky</n2><br>
 
-### Sexology
+### Astrology
 
 Mastery over sexual stamina requires proficiency in the following four domains: (1) achieving a balance in the power and tone of the pelvic floor muscles, (2) utilising diaphragmatic breathing, (3) developing a 'calm arousal' state of mind, and (4) conditioning the body through the practice of edging.
 
