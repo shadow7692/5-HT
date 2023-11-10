@@ -3,6 +3,7 @@ title: "Second Brain"
 date: 2023-09-17T15:48:17+01:00
 BookToC: true
 weight: 2
+draft: true
 ---
 
 
