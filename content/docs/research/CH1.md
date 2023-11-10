@@ -1,11 +1,12 @@
 ---
-title: "How To Look Better"
+title: "Foundations For Life"
 date: 2023-09-17T15:48:17+01:00
 BookToC: true
 weight: 1
 ---
 
-<n2>Optimising Oral Hygiene</n2>
+<n2>Foundations For Life</n2>
+
 ### Dentistry
 
 Mechanical plaque control, achieved by creating friction between toothbrush bristles or Miswak plant fibers and the tooth surface, involves cleaning teeth with an electric toothbrush twice daily and using *Salvadora persica* sticks after every meal or snack. Toothpaste containing CoQ10 and Miswak contributes to chemical plaque control through the presence of calcium and fluoride ions, promoting the remineralization of tooth structure and exhibiting mild antibacterial properties.
@@ -18,7 +19,6 @@ Dental flossing plays a crucial role in oral health by cleaning the tight spaces
 
 Salt gargling, a practice rooted in traditional medicine, involves rinsing the mouth with a warm saline solution. The saltwater rinse helps create an inhospitable environment for bacteria by altering the pH balance in the mouth. Additionally, it can soothe minor gum irritations and provide temporary relief from a sore throat or mouth ulcers.
 
-<n2>Perfect Skincare Routine</n2>
 ### Dermatology
 
 Moisturise daily and if incorporating retinol every other day into the skincare regimen, select moisturiser with SPF for optimal protection.
